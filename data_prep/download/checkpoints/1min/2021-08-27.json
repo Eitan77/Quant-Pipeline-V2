@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2021-08-27",
+  "task_signature": "b46711a3324e63009f4dd1b5e4702e32d8cc22882562000adc30630baff88d52",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "MXIM"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

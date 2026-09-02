@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2025-08-07",
+  "task_signature": "ab5ba9ebe3076cd9a5bdec81940604b8690fae1f1aeb0171004341fa07a96eaf",
+  "requested_symbols": 1,
+  "returned_symbols": [
+    "PARA"
+  ],
+  "requested_without_return": [],
+  "pages": 1,
+  "rows": 170,
+  "output": "D:\\AlgoResearch\\data\\raw\\alpaca\\market\\stocks\\bars_1m\\feed=sip\\year=2025\\month=08\\date=2025-08-07\\part-cam0508-1min-2025-08-07-5cb92074dca942a7bcd9ba83122c9768.parquet",
+  "holdout_rows_loaded": 0
+}

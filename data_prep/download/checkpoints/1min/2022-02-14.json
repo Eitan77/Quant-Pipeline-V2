@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2022-02-14",
+  "task_signature": "0d92a4e71d7b424b95b3626303d95bf5c71eabc392206bec22ebf3c525b77a9d",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "XLNX"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

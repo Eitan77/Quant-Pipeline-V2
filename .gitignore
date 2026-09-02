@@ -1,0 +1,53 @@
+# Local data and generated research artifacts
+runs/
+data/
+*.parquet
+*.duckdb
+*.duckdb.wal
+*.csv
+*.html
+*.png
+*.log
+
+# Curated aggregate research results may be explicitly versioned.
+!results/
+!results/**/*.csv
+!results/**/*.json
+!results/**/*.md
+!results/**/*.html
+!results/**/*.png
+!results/**/*.zip
+
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+**/__pycache__/
+*.egg-info/
+runs/
+results/
+.env
+*.duckdb
+*.duckdb.wal
+*.parquet
+!reference/*.parquet
+.coverage
+htmlcov/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

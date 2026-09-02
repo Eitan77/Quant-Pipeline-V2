@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "membership_sha256": "bd616fc136ee44b90e4e01d8f5694be43fa9be1f4fd7a056280190dad986a2c2",
+  "source_symbol_count": 1,
+  "resolved_count": 1,
+  "unresolved_count": 0,
+  "mapping": {
+    "PARA": {
+      "status": "resolved",
+      "provider_symbol": "PARA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PARA"
+      ]
+    }
+  },
+  "credentials_recorded": false
+}

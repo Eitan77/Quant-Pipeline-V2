@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2024-05-03",
+  "task_signature": "85060e7ebdc892ba6bdadb057d0a4b0a0fadbcf0f87f2c50ae8d7a490110305b",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "PXD"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

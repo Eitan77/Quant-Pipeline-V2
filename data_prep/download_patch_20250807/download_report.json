@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "requested_start": "2025-08-07",
+  "requested_cutoff": "2025-08-07",
+  "holdout_rows_loaded": 0,
+  "membership_sha256": "53be26f0e47785ec3b6cda5bf1b49ba13bf7111fb7dc34393d5f741c49630a6c",
+  "alias_report": {
+    "source_symbol_count": 503,
+    "resolved_count": 503,
+    "unresolved_count": 0
+  },
+  "timeframes": {
+    "1Min": {
+      "timeframe": "1Min",
+      "expected_symbol_sessions": 503,
+      "existing_covered_symbol_sessions": 115,
+      "planned_dates_with_missing_coverage": 1,
+      "checkpoint_skips": 0,
+      "pending_dates": 1,
+      "requested_symbols": 503,
+      "api_pages": 17,
+      "downloaded_rows": 147166,
+      "completed_dates": 1,
+      "empty_dates": 0,
+      "failures": [],
+      "finished_at_utc": "2026-09-02T02:13:32.247514+00:00",
+      "run_seconds": 5.985000000015134
+    }
+  },
+  "credentials_recorded": false
+}

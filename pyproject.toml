@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quant-pipeline-v2"
+version = "0.2.0"
+description = "Standalone causal CUDA-accelerated alpha discovery and validation pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "duckdb>=1.5.0",
+  "exchange-calendars>=4.7.0",
+  "matplotlib>=3.10.0",
+  "numpy>=2.0.0",
+  "pandas>=3.0.0",
+  "pyarrow>=23.0.0",
+  "pyyaml>=6.0.0",
+  "python-dotenv>=1.2.0",
+  "scipy>=1.17.0",
+  "scikit-learn>=1.7.0",
+  "statsmodels>=0.14.0",
+  "torch>=2.5.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+quant-alpha = "quant_pipeline_alpha_discovery_launcher:cli_main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

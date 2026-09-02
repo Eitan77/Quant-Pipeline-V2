@@ -1,0 +1,10 @@
+{
+  "rows": 33502,
+  "symbols": 33251,
+  "security_ids": 33502,
+  "statuses": {
+    "inactive": 19223,
+    "active": 14279
+  },
+  "output": "reference\\alpaca_security_master_20260901.parquet"
+}

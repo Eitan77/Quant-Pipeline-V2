@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2023-05-03",
+  "task_signature": "13731e0b5c58d47ed276be90d33d28c2b52a71cb4f7275607649a157bd235e81",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "FRC"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

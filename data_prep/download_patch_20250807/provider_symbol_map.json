@@ -1,0 +1,4537 @@
+{
+  "status": "passed",
+  "membership_sha256": "53be26f0e47785ec3b6cda5bf1b49ba13bf7111fb7dc34393d5f741c49630a6c",
+  "source_symbol_count": 503,
+  "resolved_count": 503,
+  "unresolved_count": 0,
+  "mapping": {
+    "A": {
+      "status": "resolved",
+      "provider_symbol": "A",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "A"
+      ]
+    },
+    "AAPL": {
+      "status": "resolved",
+      "provider_symbol": "AAPL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AAPL"
+      ]
+    },
+    "ABBV": {
+      "status": "resolved",
+      "provider_symbol": "ABBV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ABBV"
+      ]
+    },
+    "ABNB": {
+      "status": "resolved",
+      "provider_symbol": "ABNB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ABNB"
+      ]
+    },
+    "ABT": {
+      "status": "resolved",
+      "provider_symbol": "ABT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ABT"
+      ]
+    },
+    "ACGL": {
+      "status": "resolved",
+      "provider_symbol": "ACGL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ACGL"
+      ]
+    },
+    "ACN": {
+      "status": "resolved",
+      "provider_symbol": "ACN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ACN"
+      ]
+    },
+    "ADBE": {
+      "status": "resolved",
+      "provider_symbol": "ADBE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ADBE"
+      ]
+    },
+    "ADI": {
+      "status": "resolved",
+      "provider_symbol": "ADI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ADI"
+      ]
+    },
+    "ADM": {
+      "status": "resolved",
+      "provider_symbol": "ADM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ADM"
+      ]
+    },
+    "ADP": {
+      "status": "resolved",
+      "provider_symbol": "ADP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ADP"
+      ]
+    },
+    "ADSK": {
+      "status": "resolved",
+      "provider_symbol": "ADSK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ADSK"
+      ]
+    },
+    "AEE": {
+      "status": "resolved",
+      "provider_symbol": "AEE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AEE"
+      ]
+    },
+    "AEP": {
+      "status": "resolved",
+      "provider_symbol": "AEP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AEP"
+      ]
+    },
+    "AES": {
+      "status": "resolved",
+      "provider_symbol": "AES",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AES"
+      ]
+    },
+    "AFL": {
+      "status": "resolved",
+      "provider_symbol": "AFL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AFL"
+      ]
+    },
+    "AIG": {
+      "status": "resolved",
+      "provider_symbol": "AIG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AIG"
+      ]
+    },
+    "AIZ": {
+      "status": "resolved",
+      "provider_symbol": "AIZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AIZ"
+      ]
+    },
+    "AJG": {
+      "status": "resolved",
+      "provider_symbol": "AJG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AJG"
+      ]
+    },
+    "AKAM": {
+      "status": "resolved",
+      "provider_symbol": "AKAM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AKAM"
+      ]
+    },
+    "ALB": {
+      "status": "resolved",
+      "provider_symbol": "ALB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ALB"
+      ]
+    },
+    "ALGN": {
+      "status": "resolved",
+      "provider_symbol": "ALGN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ALGN"
+      ]
+    },
+    "ALL": {
+      "status": "resolved",
+      "provider_symbol": "ALL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ALL"
+      ]
+    },
+    "ALLE": {
+      "status": "resolved",
+      "provider_symbol": "ALLE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ALLE"
+      ]
+    },
+    "AMAT": {
+      "status": "resolved",
+      "provider_symbol": "AMAT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMAT"
+      ]
+    },
+    "AMCR": {
+      "status": "resolved",
+      "provider_symbol": "AMCR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMCR"
+      ]
+    },
+    "AMD": {
+      "status": "resolved",
+      "provider_symbol": "AMD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMD"
+      ]
+    },
+    "AME": {
+      "status": "resolved",
+      "provider_symbol": "AME",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AME"
+      ]
+    },
+    "AMGN": {
+      "status": "resolved",
+      "provider_symbol": "AMGN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMGN"
+      ]
+    },
+    "AMP": {
+      "status": "resolved",
+      "provider_symbol": "AMP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMP"
+      ]
+    },
+    "AMT": {
+      "status": "resolved",
+      "provider_symbol": "AMT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMT"
+      ]
+    },
+    "AMZN": {
+      "status": "resolved",
+      "provider_symbol": "AMZN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AMZN"
+      ]
+    },
+    "ANET": {
+      "status": "resolved",
+      "provider_symbol": "ANET",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ANET"
+      ]
+    },
+    "AON": {
+      "status": "resolved",
+      "provider_symbol": "AON",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AON"
+      ]
+    },
+    "AOS": {
+      "status": "resolved",
+      "provider_symbol": "AOS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AOS"
+      ]
+    },
+    "APA": {
+      "status": "resolved",
+      "provider_symbol": "APA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "APA"
+      ]
+    },
+    "APD": {
+      "status": "resolved",
+      "provider_symbol": "APD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "APD"
+      ]
+    },
+    "APH": {
+      "status": "resolved",
+      "provider_symbol": "APH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "APH"
+      ]
+    },
+    "APO": {
+      "status": "resolved",
+      "provider_symbol": "APO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "APO"
+      ]
+    },
+    "APTV": {
+      "status": "resolved",
+      "provider_symbol": "APTV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "APTV"
+      ]
+    },
+    "ARE": {
+      "status": "resolved",
+      "provider_symbol": "ARE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ARE"
+      ]
+    },
+    "ATO": {
+      "status": "resolved",
+      "provider_symbol": "ATO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ATO"
+      ]
+    },
+    "AVB": {
+      "status": "resolved",
+      "provider_symbol": "AVB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AVB"
+      ]
+    },
+    "AVGO": {
+      "status": "resolved",
+      "provider_symbol": "AVGO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AVGO"
+      ]
+    },
+    "AVY": {
+      "status": "resolved",
+      "provider_symbol": "AVY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AVY"
+      ]
+    },
+    "AWK": {
+      "status": "resolved",
+      "provider_symbol": "AWK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AWK"
+      ]
+    },
+    "AXON": {
+      "status": "resolved",
+      "provider_symbol": "AXON",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AXON"
+      ]
+    },
+    "AXP": {
+      "status": "resolved",
+      "provider_symbol": "AXP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AXP"
+      ]
+    },
+    "AZO": {
+      "status": "resolved",
+      "provider_symbol": "AZO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "AZO"
+      ]
+    },
+    "BA": {
+      "status": "resolved",
+      "provider_symbol": "BA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BA"
+      ]
+    },
+    "BAC": {
+      "status": "resolved",
+      "provider_symbol": "BAC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BAC"
+      ]
+    },
+    "BALL": {
+      "status": "resolved",
+      "provider_symbol": "BALL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BALL"
+      ]
+    },
+    "BAX": {
+      "status": "resolved",
+      "provider_symbol": "BAX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BAX"
+      ]
+    },
+    "BBY": {
+      "status": "resolved",
+      "provider_symbol": "BBY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BBY"
+      ]
+    },
+    "BDX": {
+      "status": "resolved",
+      "provider_symbol": "BDX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BDX"
+      ]
+    },
+    "BEN": {
+      "status": "resolved",
+      "provider_symbol": "BEN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BEN"
+      ]
+    },
+    "BF.B": {
+      "status": "resolved",
+      "provider_symbol": "BF.B",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BF.B"
+      ]
+    },
+    "BG": {
+      "status": "resolved",
+      "provider_symbol": "BG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BG"
+      ]
+    },
+    "BIIB": {
+      "status": "resolved",
+      "provider_symbol": "BIIB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BIIB"
+      ]
+    },
+    "BK": {
+      "status": "resolved",
+      "provider_symbol": "BK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BK"
+      ]
+    },
+    "BKNG": {
+      "status": "resolved",
+      "provider_symbol": "BKNG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BKNG"
+      ]
+    },
+    "BKR": {
+      "status": "resolved",
+      "provider_symbol": "BKR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BKR"
+      ]
+    },
+    "BLDR": {
+      "status": "resolved",
+      "provider_symbol": "BLDR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BLDR"
+      ]
+    },
+    "BLK": {
+      "status": "resolved",
+      "provider_symbol": "BLK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BLK"
+      ]
+    },
+    "BMY": {
+      "status": "resolved",
+      "provider_symbol": "BMY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BMY"
+      ]
+    },
+    "BR": {
+      "status": "resolved",
+      "provider_symbol": "BR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BR"
+      ]
+    },
+    "BRK.B": {
+      "status": "resolved",
+      "provider_symbol": "BRK.B",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BRK.B"
+      ]
+    },
+    "BRO": {
+      "status": "resolved",
+      "provider_symbol": "BRO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BRO"
+      ]
+    },
+    "BSX": {
+      "status": "resolved",
+      "provider_symbol": "BSX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BSX"
+      ]
+    },
+    "BX": {
+      "status": "resolved",
+      "provider_symbol": "BX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BX"
+      ]
+    },
+    "BXP": {
+      "status": "resolved",
+      "provider_symbol": "BXP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "BXP"
+      ]
+    },
+    "C": {
+      "status": "resolved",
+      "provider_symbol": "C",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "C"
+      ]
+    },
+    "CAG": {
+      "status": "resolved",
+      "provider_symbol": "CAG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CAG"
+      ]
+    },
+    "CAH": {
+      "status": "resolved",
+      "provider_symbol": "CAH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CAH"
+      ]
+    },
+    "CARR": {
+      "status": "resolved",
+      "provider_symbol": "CARR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CARR"
+      ]
+    },
+    "CAT": {
+      "status": "resolved",
+      "provider_symbol": "CAT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CAT"
+      ]
+    },
+    "CB": {
+      "status": "resolved",
+      "provider_symbol": "CB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CB"
+      ]
+    },
+    "CBOE": {
+      "status": "resolved",
+      "provider_symbol": "CBOE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CBOE"
+      ]
+    },
+    "CBRE": {
+      "status": "resolved",
+      "provider_symbol": "CBRE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CBRE"
+      ]
+    },
+    "CCI": {
+      "status": "resolved",
+      "provider_symbol": "CCI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CCI"
+      ]
+    },
+    "CCL": {
+      "status": "resolved",
+      "provider_symbol": "CCL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CCL"
+      ]
+    },
+    "CDNS": {
+      "status": "resolved",
+      "provider_symbol": "CDNS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CDNS"
+      ]
+    },
+    "CDW": {
+      "status": "resolved",
+      "provider_symbol": "CDW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CDW"
+      ]
+    },
+    "CEG": {
+      "status": "resolved",
+      "provider_symbol": "CEG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CEG"
+      ]
+    },
+    "CF": {
+      "status": "resolved",
+      "provider_symbol": "CF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CF"
+      ]
+    },
+    "CFG": {
+      "status": "resolved",
+      "provider_symbol": "CFG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CFG"
+      ]
+    },
+    "CHD": {
+      "status": "resolved",
+      "provider_symbol": "CHD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CHD"
+      ]
+    },
+    "CHRW": {
+      "status": "resolved",
+      "provider_symbol": "CHRW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CHRW"
+      ]
+    },
+    "CHTR": {
+      "status": "resolved",
+      "provider_symbol": "CHTR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CHTR"
+      ]
+    },
+    "CI": {
+      "status": "resolved",
+      "provider_symbol": "CI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CI"
+      ]
+    },
+    "CINF": {
+      "status": "resolved",
+      "provider_symbol": "CINF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CINF"
+      ]
+    },
+    "CL": {
+      "status": "resolved",
+      "provider_symbol": "CL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CL"
+      ]
+    },
+    "CLX": {
+      "status": "resolved",
+      "provider_symbol": "CLX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CLX"
+      ]
+    },
+    "CMCSA": {
+      "status": "resolved",
+      "provider_symbol": "CMCSA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CMCSA"
+      ]
+    },
+    "CME": {
+      "status": "resolved",
+      "provider_symbol": "CME",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CME"
+      ]
+    },
+    "CMG": {
+      "status": "resolved",
+      "provider_symbol": "CMG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CMG"
+      ]
+    },
+    "CMI": {
+      "status": "resolved",
+      "provider_symbol": "CMI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CMI"
+      ]
+    },
+    "CMS": {
+      "status": "resolved",
+      "provider_symbol": "CMS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CMS"
+      ]
+    },
+    "CNC": {
+      "status": "resolved",
+      "provider_symbol": "CNC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CNC"
+      ]
+    },
+    "CNP": {
+      "status": "resolved",
+      "provider_symbol": "CNP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CNP"
+      ]
+    },
+    "COF": {
+      "status": "resolved",
+      "provider_symbol": "COF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COF"
+      ]
+    },
+    "COIN": {
+      "status": "resolved",
+      "provider_symbol": "COIN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COIN"
+      ]
+    },
+    "COO": {
+      "status": "resolved",
+      "provider_symbol": "COO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COO"
+      ]
+    },
+    "COP": {
+      "status": "resolved",
+      "provider_symbol": "COP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COP"
+      ]
+    },
+    "COR": {
+      "status": "resolved",
+      "provider_symbol": "COR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COR"
+      ]
+    },
+    "COST": {
+      "status": "resolved",
+      "provider_symbol": "COST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "COST"
+      ]
+    },
+    "CPAY": {
+      "status": "resolved",
+      "provider_symbol": "CPAY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CPAY"
+      ]
+    },
+    "CPB": {
+      "status": "resolved",
+      "provider_symbol": "CPB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CPB"
+      ]
+    },
+    "CPRT": {
+      "status": "resolved",
+      "provider_symbol": "CPRT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CPRT"
+      ]
+    },
+    "CPT": {
+      "status": "resolved",
+      "provider_symbol": "CPT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CPT"
+      ]
+    },
+    "CRL": {
+      "status": "resolved",
+      "provider_symbol": "CRL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CRL"
+      ]
+    },
+    "CRM": {
+      "status": "resolved",
+      "provider_symbol": "CRM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CRM"
+      ]
+    },
+    "CRWD": {
+      "status": "resolved",
+      "provider_symbol": "CRWD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CRWD"
+      ]
+    },
+    "CSCO": {
+      "status": "resolved",
+      "provider_symbol": "CSCO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CSCO"
+      ]
+    },
+    "CSGP": {
+      "status": "resolved",
+      "provider_symbol": "CSGP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CSGP"
+      ]
+    },
+    "CSX": {
+      "status": "resolved",
+      "provider_symbol": "CSX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CSX"
+      ]
+    },
+    "CTAS": {
+      "status": "resolved",
+      "provider_symbol": "CTAS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CTAS"
+      ]
+    },
+    "CTRA": {
+      "status": "resolved",
+      "provider_symbol": "CTRA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CTRA"
+      ]
+    },
+    "CTSH": {
+      "status": "resolved",
+      "provider_symbol": "CTSH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CTSH"
+      ]
+    },
+    "CTVA": {
+      "status": "resolved",
+      "provider_symbol": "CTVA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CTVA"
+      ]
+    },
+    "CVS": {
+      "status": "resolved",
+      "provider_symbol": "CVS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CVS"
+      ]
+    },
+    "CVX": {
+      "status": "resolved",
+      "provider_symbol": "CVX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CVX"
+      ]
+    },
+    "CZR": {
+      "status": "resolved",
+      "provider_symbol": "CZR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "CZR"
+      ]
+    },
+    "D": {
+      "status": "resolved",
+      "provider_symbol": "D",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "D"
+      ]
+    },
+    "DAL": {
+      "status": "resolved",
+      "provider_symbol": "DAL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DAL"
+      ]
+    },
+    "DASH": {
+      "status": "resolved",
+      "provider_symbol": "DASH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DASH"
+      ]
+    },
+    "DAY": {
+      "status": "resolved",
+      "provider_symbol": "DAY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DAY"
+      ]
+    },
+    "DD": {
+      "status": "resolved",
+      "provider_symbol": "DD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DD"
+      ]
+    },
+    "DDOG": {
+      "status": "resolved",
+      "provider_symbol": "DDOG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DDOG"
+      ]
+    },
+    "DE": {
+      "status": "resolved",
+      "provider_symbol": "DE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DE"
+      ]
+    },
+    "DECK": {
+      "status": "resolved",
+      "provider_symbol": "DECK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DECK"
+      ]
+    },
+    "DELL": {
+      "status": "resolved",
+      "provider_symbol": "DELL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DELL"
+      ]
+    },
+    "DG": {
+      "status": "resolved",
+      "provider_symbol": "DG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DG"
+      ]
+    },
+    "DGX": {
+      "status": "resolved",
+      "provider_symbol": "DGX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DGX"
+      ]
+    },
+    "DHI": {
+      "status": "resolved",
+      "provider_symbol": "DHI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DHI"
+      ]
+    },
+    "DHR": {
+      "status": "resolved",
+      "provider_symbol": "DHR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DHR"
+      ]
+    },
+    "DIS": {
+      "status": "resolved",
+      "provider_symbol": "DIS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DIS"
+      ]
+    },
+    "DLR": {
+      "status": "resolved",
+      "provider_symbol": "DLR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DLR"
+      ]
+    },
+    "DLTR": {
+      "status": "resolved",
+      "provider_symbol": "DLTR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DLTR"
+      ]
+    },
+    "DOC": {
+      "status": "resolved",
+      "provider_symbol": "DOC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DOC"
+      ]
+    },
+    "DOV": {
+      "status": "resolved",
+      "provider_symbol": "DOV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DOV"
+      ]
+    },
+    "DOW": {
+      "status": "resolved",
+      "provider_symbol": "DOW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DOW"
+      ]
+    },
+    "DPZ": {
+      "status": "resolved",
+      "provider_symbol": "DPZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DPZ"
+      ]
+    },
+    "DRI": {
+      "status": "resolved",
+      "provider_symbol": "DRI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DRI"
+      ]
+    },
+    "DTE": {
+      "status": "resolved",
+      "provider_symbol": "DTE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DTE"
+      ]
+    },
+    "DUK": {
+      "status": "resolved",
+      "provider_symbol": "DUK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DUK"
+      ]
+    },
+    "DVA": {
+      "status": "resolved",
+      "provider_symbol": "DVA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DVA"
+      ]
+    },
+    "DVN": {
+      "status": "resolved",
+      "provider_symbol": "DVN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DVN"
+      ]
+    },
+    "DXCM": {
+      "status": "resolved",
+      "provider_symbol": "DXCM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "DXCM"
+      ]
+    },
+    "EA": {
+      "status": "resolved",
+      "provider_symbol": "EA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EA"
+      ]
+    },
+    "EBAY": {
+      "status": "resolved",
+      "provider_symbol": "EBAY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EBAY"
+      ]
+    },
+    "ECL": {
+      "status": "resolved",
+      "provider_symbol": "ECL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ECL"
+      ]
+    },
+    "ED": {
+      "status": "resolved",
+      "provider_symbol": "ED",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ED"
+      ]
+    },
+    "EFX": {
+      "status": "resolved",
+      "provider_symbol": "EFX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EFX"
+      ]
+    },
+    "EG": {
+      "status": "resolved",
+      "provider_symbol": "EG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EG"
+      ]
+    },
+    "EIX": {
+      "status": "resolved",
+      "provider_symbol": "EIX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EIX"
+      ]
+    },
+    "EL": {
+      "status": "resolved",
+      "provider_symbol": "EL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EL"
+      ]
+    },
+    "ELV": {
+      "status": "resolved",
+      "provider_symbol": "ELV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ELV"
+      ]
+    },
+    "EMN": {
+      "status": "resolved",
+      "provider_symbol": "EMN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EMN"
+      ]
+    },
+    "EMR": {
+      "status": "resolved",
+      "provider_symbol": "EMR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EMR"
+      ]
+    },
+    "ENPH": {
+      "status": "resolved",
+      "provider_symbol": "ENPH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ENPH"
+      ]
+    },
+    "EOG": {
+      "status": "resolved",
+      "provider_symbol": "EOG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EOG"
+      ]
+    },
+    "EPAM": {
+      "status": "resolved",
+      "provider_symbol": "EPAM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EPAM"
+      ]
+    },
+    "EQIX": {
+      "status": "resolved",
+      "provider_symbol": "EQIX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EQIX"
+      ]
+    },
+    "EQR": {
+      "status": "resolved",
+      "provider_symbol": "EQR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EQR"
+      ]
+    },
+    "EQT": {
+      "status": "resolved",
+      "provider_symbol": "EQT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EQT"
+      ]
+    },
+    "ERIE": {
+      "status": "resolved",
+      "provider_symbol": "ERIE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ERIE"
+      ]
+    },
+    "ES": {
+      "status": "resolved",
+      "provider_symbol": "ES",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ES"
+      ]
+    },
+    "ESS": {
+      "status": "resolved",
+      "provider_symbol": "ESS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ESS"
+      ]
+    },
+    "ETN": {
+      "status": "resolved",
+      "provider_symbol": "ETN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ETN"
+      ]
+    },
+    "ETR": {
+      "status": "resolved",
+      "provider_symbol": "ETR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ETR"
+      ]
+    },
+    "EVRG": {
+      "status": "resolved",
+      "provider_symbol": "EVRG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EVRG"
+      ]
+    },
+    "EW": {
+      "status": "resolved",
+      "provider_symbol": "EW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EW"
+      ]
+    },
+    "EXC": {
+      "status": "resolved",
+      "provider_symbol": "EXC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EXC"
+      ]
+    },
+    "EXE": {
+      "status": "resolved",
+      "provider_symbol": "EXE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EXE"
+      ]
+    },
+    "EXPD": {
+      "status": "resolved",
+      "provider_symbol": "EXPD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EXPD"
+      ]
+    },
+    "EXPE": {
+      "status": "resolved",
+      "provider_symbol": "EXPE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EXPE"
+      ]
+    },
+    "EXR": {
+      "status": "resolved",
+      "provider_symbol": "EXR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "EXR"
+      ]
+    },
+    "F": {
+      "status": "resolved",
+      "provider_symbol": "F",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "F"
+      ]
+    },
+    "FANG": {
+      "status": "resolved",
+      "provider_symbol": "FANG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FANG"
+      ]
+    },
+    "FAST": {
+      "status": "resolved",
+      "provider_symbol": "FAST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FAST"
+      ]
+    },
+    "FCX": {
+      "status": "resolved",
+      "provider_symbol": "FCX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FCX"
+      ]
+    },
+    "FDS": {
+      "status": "resolved",
+      "provider_symbol": "FDS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FDS"
+      ]
+    },
+    "FDX": {
+      "status": "resolved",
+      "provider_symbol": "FDX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FDX"
+      ]
+    },
+    "FE": {
+      "status": "resolved",
+      "provider_symbol": "FE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FE"
+      ]
+    },
+    "FFIV": {
+      "status": "resolved",
+      "provider_symbol": "FFIV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FFIV"
+      ]
+    },
+    "FI": {
+      "status": "resolved",
+      "provider_symbol": "FI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FI"
+      ]
+    },
+    "FICO": {
+      "status": "resolved",
+      "provider_symbol": "FICO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FICO"
+      ]
+    },
+    "FIS": {
+      "status": "resolved",
+      "provider_symbol": "FIS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FIS"
+      ]
+    },
+    "FITB": {
+      "status": "resolved",
+      "provider_symbol": "FITB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FITB"
+      ]
+    },
+    "FOX": {
+      "status": "resolved",
+      "provider_symbol": "FOX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FOX"
+      ]
+    },
+    "FOXA": {
+      "status": "resolved",
+      "provider_symbol": "FOXA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FOXA"
+      ]
+    },
+    "FRT": {
+      "status": "resolved",
+      "provider_symbol": "FRT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FRT"
+      ]
+    },
+    "FSLR": {
+      "status": "resolved",
+      "provider_symbol": "FSLR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FSLR"
+      ]
+    },
+    "FTNT": {
+      "status": "resolved",
+      "provider_symbol": "FTNT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FTNT"
+      ]
+    },
+    "FTV": {
+      "status": "resolved",
+      "provider_symbol": "FTV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FTV"
+      ]
+    },
+    "GD": {
+      "status": "resolved",
+      "provider_symbol": "GD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GD"
+      ]
+    },
+    "GDDY": {
+      "status": "resolved",
+      "provider_symbol": "GDDY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GDDY"
+      ]
+    },
+    "GE": {
+      "status": "resolved",
+      "provider_symbol": "GE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GE"
+      ]
+    },
+    "GEHC": {
+      "status": "resolved",
+      "provider_symbol": "GEHC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GEHC"
+      ]
+    },
+    "GEN": {
+      "status": "resolved",
+      "provider_symbol": "GEN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GEN"
+      ]
+    },
+    "GEV": {
+      "status": "resolved",
+      "provider_symbol": "GEV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GEV"
+      ]
+    },
+    "GILD": {
+      "status": "resolved",
+      "provider_symbol": "GILD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GILD"
+      ]
+    },
+    "GIS": {
+      "status": "resolved",
+      "provider_symbol": "GIS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GIS"
+      ]
+    },
+    "GL": {
+      "status": "resolved",
+      "provider_symbol": "GL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GL"
+      ]
+    },
+    "GLW": {
+      "status": "resolved",
+      "provider_symbol": "GLW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GLW"
+      ]
+    },
+    "GM": {
+      "status": "resolved",
+      "provider_symbol": "GM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GM"
+      ]
+    },
+    "GNRC": {
+      "status": "resolved",
+      "provider_symbol": "GNRC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GNRC"
+      ]
+    },
+    "GOOG": {
+      "status": "resolved",
+      "provider_symbol": "GOOG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GOOG"
+      ]
+    },
+    "GOOGL": {
+      "status": "resolved",
+      "provider_symbol": "GOOGL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GOOGL"
+      ]
+    },
+    "GPC": {
+      "status": "resolved",
+      "provider_symbol": "GPC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GPC"
+      ]
+    },
+    "GPN": {
+      "status": "resolved",
+      "provider_symbol": "GPN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GPN"
+      ]
+    },
+    "GRMN": {
+      "status": "resolved",
+      "provider_symbol": "GRMN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GRMN"
+      ]
+    },
+    "GS": {
+      "status": "resolved",
+      "provider_symbol": "GS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GS"
+      ]
+    },
+    "GWW": {
+      "status": "resolved",
+      "provider_symbol": "GWW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "GWW"
+      ]
+    },
+    "HAL": {
+      "status": "resolved",
+      "provider_symbol": "HAL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HAL"
+      ]
+    },
+    "HAS": {
+      "status": "resolved",
+      "provider_symbol": "HAS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HAS"
+      ]
+    },
+    "HBAN": {
+      "status": "resolved",
+      "provider_symbol": "HBAN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HBAN"
+      ]
+    },
+    "HCA": {
+      "status": "resolved",
+      "provider_symbol": "HCA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HCA"
+      ]
+    },
+    "HD": {
+      "status": "resolved",
+      "provider_symbol": "HD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HD"
+      ]
+    },
+    "HIG": {
+      "status": "resolved",
+      "provider_symbol": "HIG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HIG"
+      ]
+    },
+    "HII": {
+      "status": "resolved",
+      "provider_symbol": "HII",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HII"
+      ]
+    },
+    "HLT": {
+      "status": "resolved",
+      "provider_symbol": "HLT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HLT"
+      ]
+    },
+    "HOLX": {
+      "status": "resolved",
+      "provider_symbol": "HOLX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HOLX"
+      ]
+    },
+    "HON": {
+      "status": "resolved",
+      "provider_symbol": "HON",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HON"
+      ]
+    },
+    "HPE": {
+      "status": "resolved",
+      "provider_symbol": "HPE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HPE"
+      ]
+    },
+    "HPQ": {
+      "status": "resolved",
+      "provider_symbol": "HPQ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HPQ"
+      ]
+    },
+    "HRL": {
+      "status": "resolved",
+      "provider_symbol": "HRL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HRL"
+      ]
+    },
+    "HSIC": {
+      "status": "resolved",
+      "provider_symbol": "HSIC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HSIC"
+      ]
+    },
+    "HST": {
+      "status": "resolved",
+      "provider_symbol": "HST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HST"
+      ]
+    },
+    "HSY": {
+      "status": "resolved",
+      "provider_symbol": "HSY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HSY"
+      ]
+    },
+    "HUBB": {
+      "status": "resolved",
+      "provider_symbol": "HUBB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HUBB"
+      ]
+    },
+    "HUM": {
+      "status": "resolved",
+      "provider_symbol": "HUM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HUM"
+      ]
+    },
+    "HWM": {
+      "status": "resolved",
+      "provider_symbol": "HWM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "HWM"
+      ]
+    },
+    "IBM": {
+      "status": "resolved",
+      "provider_symbol": "IBM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IBM"
+      ]
+    },
+    "ICE": {
+      "status": "resolved",
+      "provider_symbol": "ICE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ICE"
+      ]
+    },
+    "IDXX": {
+      "status": "resolved",
+      "provider_symbol": "IDXX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IDXX"
+      ]
+    },
+    "IEX": {
+      "status": "resolved",
+      "provider_symbol": "IEX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IEX"
+      ]
+    },
+    "IFF": {
+      "status": "resolved",
+      "provider_symbol": "IFF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IFF"
+      ]
+    },
+    "INCY": {
+      "status": "resolved",
+      "provider_symbol": "INCY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "INCY"
+      ]
+    },
+    "INTC": {
+      "status": "resolved",
+      "provider_symbol": "INTC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "INTC"
+      ]
+    },
+    "INTU": {
+      "status": "resolved",
+      "provider_symbol": "INTU",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "INTU"
+      ]
+    },
+    "INVH": {
+      "status": "resolved",
+      "provider_symbol": "INVH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "INVH"
+      ]
+    },
+    "IP": {
+      "status": "resolved",
+      "provider_symbol": "IP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IP"
+      ]
+    },
+    "IPG": {
+      "status": "resolved",
+      "provider_symbol": "IPG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IPG"
+      ]
+    },
+    "IQV": {
+      "status": "resolved",
+      "provider_symbol": "IQV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IQV"
+      ]
+    },
+    "IR": {
+      "status": "resolved",
+      "provider_symbol": "IR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IR"
+      ]
+    },
+    "IRM": {
+      "status": "resolved",
+      "provider_symbol": "IRM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IRM"
+      ]
+    },
+    "ISRG": {
+      "status": "resolved",
+      "provider_symbol": "ISRG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ISRG"
+      ]
+    },
+    "IT": {
+      "status": "resolved",
+      "provider_symbol": "IT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IT"
+      ]
+    },
+    "ITW": {
+      "status": "resolved",
+      "provider_symbol": "ITW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ITW"
+      ]
+    },
+    "IVZ": {
+      "status": "resolved",
+      "provider_symbol": "IVZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "IVZ"
+      ]
+    },
+    "J": {
+      "status": "resolved",
+      "provider_symbol": "J",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "J"
+      ]
+    },
+    "JBHT": {
+      "status": "resolved",
+      "provider_symbol": "JBHT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JBHT"
+      ]
+    },
+    "JBL": {
+      "status": "resolved",
+      "provider_symbol": "JBL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JBL"
+      ]
+    },
+    "JCI": {
+      "status": "resolved",
+      "provider_symbol": "JCI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JCI"
+      ]
+    },
+    "JKHY": {
+      "status": "resolved",
+      "provider_symbol": "JKHY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JKHY"
+      ]
+    },
+    "JNJ": {
+      "status": "resolved",
+      "provider_symbol": "JNJ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JNJ"
+      ]
+    },
+    "JPM": {
+      "status": "resolved",
+      "provider_symbol": "JPM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "JPM"
+      ]
+    },
+    "K": {
+      "status": "resolved",
+      "provider_symbol": "K",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "K"
+      ]
+    },
+    "KDP": {
+      "status": "resolved",
+      "provider_symbol": "KDP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KDP"
+      ]
+    },
+    "KEY": {
+      "status": "resolved",
+      "provider_symbol": "KEY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KEY"
+      ]
+    },
+    "KEYS": {
+      "status": "resolved",
+      "provider_symbol": "KEYS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KEYS"
+      ]
+    },
+    "KHC": {
+      "status": "resolved",
+      "provider_symbol": "KHC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KHC"
+      ]
+    },
+    "KIM": {
+      "status": "resolved",
+      "provider_symbol": "KIM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KIM"
+      ]
+    },
+    "KKR": {
+      "status": "resolved",
+      "provider_symbol": "KKR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KKR"
+      ]
+    },
+    "KLAC": {
+      "status": "resolved",
+      "provider_symbol": "KLAC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KLAC"
+      ]
+    },
+    "KMB": {
+      "status": "resolved",
+      "provider_symbol": "KMB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KMB"
+      ]
+    },
+    "KMI": {
+      "status": "resolved",
+      "provider_symbol": "KMI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KMI"
+      ]
+    },
+    "KMX": {
+      "status": "resolved",
+      "provider_symbol": "KMX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KMX"
+      ]
+    },
+    "KO": {
+      "status": "resolved",
+      "provider_symbol": "KO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KO"
+      ]
+    },
+    "KR": {
+      "status": "resolved",
+      "provider_symbol": "KR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KR"
+      ]
+    },
+    "KVUE": {
+      "status": "resolved",
+      "provider_symbol": "KVUE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "KVUE"
+      ]
+    },
+    "L": {
+      "status": "resolved",
+      "provider_symbol": "L",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "L"
+      ]
+    },
+    "LDOS": {
+      "status": "resolved",
+      "provider_symbol": "LDOS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LDOS"
+      ]
+    },
+    "LEN": {
+      "status": "resolved",
+      "provider_symbol": "LEN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LEN"
+      ]
+    },
+    "LH": {
+      "status": "resolved",
+      "provider_symbol": "LH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LH"
+      ]
+    },
+    "LHX": {
+      "status": "resolved",
+      "provider_symbol": "LHX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LHX"
+      ]
+    },
+    "LII": {
+      "status": "resolved",
+      "provider_symbol": "LII",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LII"
+      ]
+    },
+    "LIN": {
+      "status": "resolved",
+      "provider_symbol": "LIN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LIN"
+      ]
+    },
+    "LKQ": {
+      "status": "resolved",
+      "provider_symbol": "LKQ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LKQ"
+      ]
+    },
+    "LLY": {
+      "status": "resolved",
+      "provider_symbol": "LLY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LLY"
+      ]
+    },
+    "LMT": {
+      "status": "resolved",
+      "provider_symbol": "LMT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LMT"
+      ]
+    },
+    "LNT": {
+      "status": "resolved",
+      "provider_symbol": "LNT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LNT"
+      ]
+    },
+    "LOW": {
+      "status": "resolved",
+      "provider_symbol": "LOW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LOW"
+      ]
+    },
+    "LRCX": {
+      "status": "resolved",
+      "provider_symbol": "LRCX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LRCX"
+      ]
+    },
+    "LULU": {
+      "status": "resolved",
+      "provider_symbol": "LULU",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LULU"
+      ]
+    },
+    "LUV": {
+      "status": "resolved",
+      "provider_symbol": "LUV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LUV"
+      ]
+    },
+    "LVS": {
+      "status": "resolved",
+      "provider_symbol": "LVS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LVS"
+      ]
+    },
+    "LW": {
+      "status": "resolved",
+      "provider_symbol": "LW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LW"
+      ]
+    },
+    "LYB": {
+      "status": "resolved",
+      "provider_symbol": "LYB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LYB"
+      ]
+    },
+    "LYV": {
+      "status": "resolved",
+      "provider_symbol": "LYV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "LYV"
+      ]
+    },
+    "MA": {
+      "status": "resolved",
+      "provider_symbol": "MA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MA"
+      ]
+    },
+    "MAA": {
+      "status": "resolved",
+      "provider_symbol": "MAA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MAA"
+      ]
+    },
+    "MAR": {
+      "status": "resolved",
+      "provider_symbol": "MAR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MAR"
+      ]
+    },
+    "MAS": {
+      "status": "resolved",
+      "provider_symbol": "MAS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MAS"
+      ]
+    },
+    "MCD": {
+      "status": "resolved",
+      "provider_symbol": "MCD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MCD"
+      ]
+    },
+    "MCHP": {
+      "status": "resolved",
+      "provider_symbol": "MCHP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MCHP"
+      ]
+    },
+    "MCK": {
+      "status": "resolved",
+      "provider_symbol": "MCK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MCK"
+      ]
+    },
+    "MCO": {
+      "status": "resolved",
+      "provider_symbol": "MCO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MCO"
+      ]
+    },
+    "MDLZ": {
+      "status": "resolved",
+      "provider_symbol": "MDLZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MDLZ"
+      ]
+    },
+    "MDT": {
+      "status": "resolved",
+      "provider_symbol": "MDT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MDT"
+      ]
+    },
+    "MET": {
+      "status": "resolved",
+      "provider_symbol": "MET",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MET"
+      ]
+    },
+    "META": {
+      "status": "resolved",
+      "provider_symbol": "META",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "META"
+      ]
+    },
+    "MGM": {
+      "status": "resolved",
+      "provider_symbol": "MGM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MGM"
+      ]
+    },
+    "MHK": {
+      "status": "resolved",
+      "provider_symbol": "MHK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MHK"
+      ]
+    },
+    "MKC": {
+      "status": "resolved",
+      "provider_symbol": "MKC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MKC"
+      ]
+    },
+    "MKTX": {
+      "status": "resolved",
+      "provider_symbol": "MKTX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MKTX"
+      ]
+    },
+    "MLM": {
+      "status": "resolved",
+      "provider_symbol": "MLM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MLM"
+      ]
+    },
+    "MMC": {
+      "status": "resolved",
+      "provider_symbol": "MMC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MMC"
+      ]
+    },
+    "MMM": {
+      "status": "resolved",
+      "provider_symbol": "MMM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MMM"
+      ]
+    },
+    "MNST": {
+      "status": "resolved",
+      "provider_symbol": "MNST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MNST"
+      ]
+    },
+    "MO": {
+      "status": "resolved",
+      "provider_symbol": "MO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MO"
+      ]
+    },
+    "MOH": {
+      "status": "resolved",
+      "provider_symbol": "MOH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MOH"
+      ]
+    },
+    "MOS": {
+      "status": "resolved",
+      "provider_symbol": "MOS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MOS"
+      ]
+    },
+    "MPC": {
+      "status": "resolved",
+      "provider_symbol": "MPC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MPC"
+      ]
+    },
+    "MPWR": {
+      "status": "resolved",
+      "provider_symbol": "MPWR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MPWR"
+      ]
+    },
+    "MRK": {
+      "status": "resolved",
+      "provider_symbol": "MRK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MRK"
+      ]
+    },
+    "MRNA": {
+      "status": "resolved",
+      "provider_symbol": "MRNA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MRNA"
+      ]
+    },
+    "MS": {
+      "status": "resolved",
+      "provider_symbol": "MS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MS"
+      ]
+    },
+    "MSCI": {
+      "status": "resolved",
+      "provider_symbol": "MSCI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MSCI"
+      ]
+    },
+    "MSFT": {
+      "status": "resolved",
+      "provider_symbol": "MSFT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MSFT"
+      ]
+    },
+    "MSI": {
+      "status": "resolved",
+      "provider_symbol": "MSI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MSI"
+      ]
+    },
+    "MTB": {
+      "status": "resolved",
+      "provider_symbol": "MTB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MTB"
+      ]
+    },
+    "MTCH": {
+      "status": "resolved",
+      "provider_symbol": "MTCH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MTCH"
+      ]
+    },
+    "MTD": {
+      "status": "resolved",
+      "provider_symbol": "MTD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MTD"
+      ]
+    },
+    "MU": {
+      "status": "resolved",
+      "provider_symbol": "MU",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "MU"
+      ]
+    },
+    "NCLH": {
+      "status": "resolved",
+      "provider_symbol": "NCLH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NCLH"
+      ]
+    },
+    "NDAQ": {
+      "status": "resolved",
+      "provider_symbol": "NDAQ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NDAQ"
+      ]
+    },
+    "NDSN": {
+      "status": "resolved",
+      "provider_symbol": "NDSN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NDSN"
+      ]
+    },
+    "NEE": {
+      "status": "resolved",
+      "provider_symbol": "NEE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NEE"
+      ]
+    },
+    "NEM": {
+      "status": "resolved",
+      "provider_symbol": "NEM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NEM"
+      ]
+    },
+    "NFLX": {
+      "status": "resolved",
+      "provider_symbol": "NFLX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NFLX"
+      ]
+    },
+    "NI": {
+      "status": "resolved",
+      "provider_symbol": "NI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NI"
+      ]
+    },
+    "NKE": {
+      "status": "resolved",
+      "provider_symbol": "NKE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NKE"
+      ]
+    },
+    "NOC": {
+      "status": "resolved",
+      "provider_symbol": "NOC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NOC"
+      ]
+    },
+    "NOW": {
+      "status": "resolved",
+      "provider_symbol": "NOW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NOW"
+      ]
+    },
+    "NRG": {
+      "status": "resolved",
+      "provider_symbol": "NRG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NRG"
+      ]
+    },
+    "NSC": {
+      "status": "resolved",
+      "provider_symbol": "NSC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NSC"
+      ]
+    },
+    "NTAP": {
+      "status": "resolved",
+      "provider_symbol": "NTAP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NTAP"
+      ]
+    },
+    "NTRS": {
+      "status": "resolved",
+      "provider_symbol": "NTRS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NTRS"
+      ]
+    },
+    "NUE": {
+      "status": "resolved",
+      "provider_symbol": "NUE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NUE"
+      ]
+    },
+    "NVDA": {
+      "status": "resolved",
+      "provider_symbol": "NVDA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NVDA"
+      ]
+    },
+    "NVR": {
+      "status": "resolved",
+      "provider_symbol": "NVR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NVR"
+      ]
+    },
+    "NWS": {
+      "status": "resolved",
+      "provider_symbol": "NWS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NWS"
+      ]
+    },
+    "NWSA": {
+      "status": "resolved",
+      "provider_symbol": "NWSA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NWSA"
+      ]
+    },
+    "NXPI": {
+      "status": "resolved",
+      "provider_symbol": "NXPI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "NXPI"
+      ]
+    },
+    "O": {
+      "status": "resolved",
+      "provider_symbol": "O",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "O"
+      ]
+    },
+    "ODFL": {
+      "status": "resolved",
+      "provider_symbol": "ODFL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ODFL"
+      ]
+    },
+    "OKE": {
+      "status": "resolved",
+      "provider_symbol": "OKE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "OKE"
+      ]
+    },
+    "OMC": {
+      "status": "resolved",
+      "provider_symbol": "OMC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "OMC"
+      ]
+    },
+    "ON": {
+      "status": "resolved",
+      "provider_symbol": "ON",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ON"
+      ]
+    },
+    "ORCL": {
+      "status": "resolved",
+      "provider_symbol": "ORCL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ORCL"
+      ]
+    },
+    "ORLY": {
+      "status": "resolved",
+      "provider_symbol": "ORLY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ORLY"
+      ]
+    },
+    "OTIS": {
+      "status": "resolved",
+      "provider_symbol": "OTIS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "OTIS"
+      ]
+    },
+    "OXY": {
+      "status": "resolved",
+      "provider_symbol": "OXY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "OXY"
+      ]
+    },
+    "PANW": {
+      "status": "resolved",
+      "provider_symbol": "PANW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PANW"
+      ]
+    },
+    "PARA": {
+      "status": "resolved",
+      "provider_symbol": "PARA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PARA"
+      ]
+    },
+    "PAYC": {
+      "status": "resolved",
+      "provider_symbol": "PAYC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PAYC"
+      ]
+    },
+    "PAYX": {
+      "status": "resolved",
+      "provider_symbol": "PAYX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PAYX"
+      ]
+    },
+    "PCAR": {
+      "status": "resolved",
+      "provider_symbol": "PCAR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PCAR"
+      ]
+    },
+    "PCG": {
+      "status": "resolved",
+      "provider_symbol": "PCG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PCG"
+      ]
+    },
+    "PEG": {
+      "status": "resolved",
+      "provider_symbol": "PEG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PEG"
+      ]
+    },
+    "PEP": {
+      "status": "resolved",
+      "provider_symbol": "PEP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PEP"
+      ]
+    },
+    "PFE": {
+      "status": "resolved",
+      "provider_symbol": "PFE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PFE"
+      ]
+    },
+    "PFG": {
+      "status": "resolved",
+      "provider_symbol": "PFG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PFG"
+      ]
+    },
+    "PG": {
+      "status": "resolved",
+      "provider_symbol": "PG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PG"
+      ]
+    },
+    "PGR": {
+      "status": "resolved",
+      "provider_symbol": "PGR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PGR"
+      ]
+    },
+    "PH": {
+      "status": "resolved",
+      "provider_symbol": "PH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PH"
+      ]
+    },
+    "PHM": {
+      "status": "resolved",
+      "provider_symbol": "PHM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PHM"
+      ]
+    },
+    "PKG": {
+      "status": "resolved",
+      "provider_symbol": "PKG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PKG"
+      ]
+    },
+    "PLD": {
+      "status": "resolved",
+      "provider_symbol": "PLD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PLD"
+      ]
+    },
+    "PLTR": {
+      "status": "resolved",
+      "provider_symbol": "PLTR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PLTR"
+      ]
+    },
+    "PM": {
+      "status": "resolved",
+      "provider_symbol": "PM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PM"
+      ]
+    },
+    "PNC": {
+      "status": "resolved",
+      "provider_symbol": "PNC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PNC"
+      ]
+    },
+    "PNR": {
+      "status": "resolved",
+      "provider_symbol": "PNR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PNR"
+      ]
+    },
+    "PNW": {
+      "status": "resolved",
+      "provider_symbol": "PNW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PNW"
+      ]
+    },
+    "PODD": {
+      "status": "resolved",
+      "provider_symbol": "PODD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PODD"
+      ]
+    },
+    "POOL": {
+      "status": "resolved",
+      "provider_symbol": "POOL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "POOL"
+      ]
+    },
+    "PPG": {
+      "status": "resolved",
+      "provider_symbol": "PPG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PPG"
+      ]
+    },
+    "PPL": {
+      "status": "resolved",
+      "provider_symbol": "PPL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PPL"
+      ]
+    },
+    "PRU": {
+      "status": "resolved",
+      "provider_symbol": "PRU",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PRU"
+      ]
+    },
+    "PSA": {
+      "status": "resolved",
+      "provider_symbol": "PSA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PSA"
+      ]
+    },
+    "PSX": {
+      "status": "resolved",
+      "provider_symbol": "PSX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PSX"
+      ]
+    },
+    "PTC": {
+      "status": "resolved",
+      "provider_symbol": "PTC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PTC"
+      ]
+    },
+    "PWR": {
+      "status": "resolved",
+      "provider_symbol": "PWR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PWR"
+      ]
+    },
+    "PYPL": {
+      "status": "resolved",
+      "provider_symbol": "PYPL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "PYPL"
+      ]
+    },
+    "QCOM": {
+      "status": "resolved",
+      "provider_symbol": "QCOM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "QCOM"
+      ]
+    },
+    "RCL": {
+      "status": "resolved",
+      "provider_symbol": "RCL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RCL"
+      ]
+    },
+    "REG": {
+      "status": "resolved",
+      "provider_symbol": "REG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "REG"
+      ]
+    },
+    "REGN": {
+      "status": "resolved",
+      "provider_symbol": "REGN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "REGN"
+      ]
+    },
+    "RF": {
+      "status": "resolved",
+      "provider_symbol": "RF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RF"
+      ]
+    },
+    "RJF": {
+      "status": "resolved",
+      "provider_symbol": "RJF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RJF"
+      ]
+    },
+    "RL": {
+      "status": "resolved",
+      "provider_symbol": "RL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RL"
+      ]
+    },
+    "RMD": {
+      "status": "resolved",
+      "provider_symbol": "RMD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RMD"
+      ]
+    },
+    "ROK": {
+      "status": "resolved",
+      "provider_symbol": "ROK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ROK"
+      ]
+    },
+    "ROL": {
+      "status": "resolved",
+      "provider_symbol": "ROL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ROL"
+      ]
+    },
+    "ROP": {
+      "status": "resolved",
+      "provider_symbol": "ROP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ROP"
+      ]
+    },
+    "ROST": {
+      "status": "resolved",
+      "provider_symbol": "ROST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ROST"
+      ]
+    },
+    "RSG": {
+      "status": "resolved",
+      "provider_symbol": "RSG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RSG"
+      ]
+    },
+    "RTX": {
+      "status": "resolved",
+      "provider_symbol": "RTX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RTX"
+      ]
+    },
+    "RVTY": {
+      "status": "resolved",
+      "provider_symbol": "RVTY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "RVTY"
+      ]
+    },
+    "SBAC": {
+      "status": "resolved",
+      "provider_symbol": "SBAC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SBAC"
+      ]
+    },
+    "SBUX": {
+      "status": "resolved",
+      "provider_symbol": "SBUX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SBUX"
+      ]
+    },
+    "SCHW": {
+      "status": "resolved",
+      "provider_symbol": "SCHW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SCHW"
+      ]
+    },
+    "SHW": {
+      "status": "resolved",
+      "provider_symbol": "SHW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SHW"
+      ]
+    },
+    "SJM": {
+      "status": "resolved",
+      "provider_symbol": "SJM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SJM"
+      ]
+    },
+    "SLB": {
+      "status": "resolved",
+      "provider_symbol": "SLB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SLB"
+      ]
+    },
+    "SMCI": {
+      "status": "resolved",
+      "provider_symbol": "SMCI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SMCI"
+      ]
+    },
+    "SNA": {
+      "status": "resolved",
+      "provider_symbol": "SNA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SNA"
+      ]
+    },
+    "SNPS": {
+      "status": "resolved",
+      "provider_symbol": "SNPS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SNPS"
+      ]
+    },
+    "SO": {
+      "status": "resolved",
+      "provider_symbol": "SO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SO"
+      ]
+    },
+    "SOLV": {
+      "status": "resolved",
+      "provider_symbol": "SOLV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SOLV"
+      ]
+    },
+    "SPG": {
+      "status": "resolved",
+      "provider_symbol": "SPG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SPG"
+      ]
+    },
+    "SPGI": {
+      "status": "resolved",
+      "provider_symbol": "SPGI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SPGI"
+      ]
+    },
+    "SRE": {
+      "status": "resolved",
+      "provider_symbol": "SRE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SRE"
+      ]
+    },
+    "STE": {
+      "status": "resolved",
+      "provider_symbol": "STE",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "STE"
+      ]
+    },
+    "STLD": {
+      "status": "resolved",
+      "provider_symbol": "STLD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "STLD"
+      ]
+    },
+    "STT": {
+      "status": "resolved",
+      "provider_symbol": "STT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "STT"
+      ]
+    },
+    "STX": {
+      "status": "resolved",
+      "provider_symbol": "STX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "STX"
+      ]
+    },
+    "STZ": {
+      "status": "resolved",
+      "provider_symbol": "STZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "STZ"
+      ]
+    },
+    "SW": {
+      "status": "resolved",
+      "provider_symbol": "SW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SW"
+      ]
+    },
+    "SWK": {
+      "status": "resolved",
+      "provider_symbol": "SWK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SWK"
+      ]
+    },
+    "SWKS": {
+      "status": "resolved",
+      "provider_symbol": "SWKS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SWKS"
+      ]
+    },
+    "SYF": {
+      "status": "resolved",
+      "provider_symbol": "SYF",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SYF"
+      ]
+    },
+    "SYK": {
+      "status": "resolved",
+      "provider_symbol": "SYK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SYK"
+      ]
+    },
+    "SYY": {
+      "status": "resolved",
+      "provider_symbol": "SYY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "SYY"
+      ]
+    },
+    "T": {
+      "status": "resolved",
+      "provider_symbol": "T",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "T"
+      ]
+    },
+    "TAP": {
+      "status": "resolved",
+      "provider_symbol": "TAP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TAP"
+      ]
+    },
+    "TDG": {
+      "status": "resolved",
+      "provider_symbol": "TDG",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TDG"
+      ]
+    },
+    "TDY": {
+      "status": "resolved",
+      "provider_symbol": "TDY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TDY"
+      ]
+    },
+    "TECH": {
+      "status": "resolved",
+      "provider_symbol": "TECH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TECH"
+      ]
+    },
+    "TEL": {
+      "status": "resolved",
+      "provider_symbol": "TEL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TEL"
+      ]
+    },
+    "TER": {
+      "status": "resolved",
+      "provider_symbol": "TER",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TER"
+      ]
+    },
+    "TFC": {
+      "status": "resolved",
+      "provider_symbol": "TFC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TFC"
+      ]
+    },
+    "TGT": {
+      "status": "resolved",
+      "provider_symbol": "TGT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TGT"
+      ]
+    },
+    "TJX": {
+      "status": "resolved",
+      "provider_symbol": "TJX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TJX"
+      ]
+    },
+    "TKO": {
+      "status": "resolved",
+      "provider_symbol": "TKO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TKO"
+      ]
+    },
+    "TMO": {
+      "status": "resolved",
+      "provider_symbol": "TMO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TMO"
+      ]
+    },
+    "TMUS": {
+      "status": "resolved",
+      "provider_symbol": "TMUS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TMUS"
+      ]
+    },
+    "TPL": {
+      "status": "resolved",
+      "provider_symbol": "TPL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TPL"
+      ]
+    },
+    "TPR": {
+      "status": "resolved",
+      "provider_symbol": "TPR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TPR"
+      ]
+    },
+    "TRGP": {
+      "status": "resolved",
+      "provider_symbol": "TRGP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TRGP"
+      ]
+    },
+    "TRMB": {
+      "status": "resolved",
+      "provider_symbol": "TRMB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TRMB"
+      ]
+    },
+    "TROW": {
+      "status": "resolved",
+      "provider_symbol": "TROW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TROW"
+      ]
+    },
+    "TRV": {
+      "status": "resolved",
+      "provider_symbol": "TRV",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TRV"
+      ]
+    },
+    "TSCO": {
+      "status": "resolved",
+      "provider_symbol": "TSCO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TSCO"
+      ]
+    },
+    "TSLA": {
+      "status": "resolved",
+      "provider_symbol": "TSLA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TSLA"
+      ]
+    },
+    "TSN": {
+      "status": "resolved",
+      "provider_symbol": "TSN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TSN"
+      ]
+    },
+    "TT": {
+      "status": "resolved",
+      "provider_symbol": "TT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TT"
+      ]
+    },
+    "TTD": {
+      "status": "resolved",
+      "provider_symbol": "TTD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TTD"
+      ]
+    },
+    "TTWO": {
+      "status": "resolved",
+      "provider_symbol": "TTWO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TTWO"
+      ]
+    },
+    "TXN": {
+      "status": "resolved",
+      "provider_symbol": "TXN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TXN"
+      ]
+    },
+    "TXT": {
+      "status": "resolved",
+      "provider_symbol": "TXT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TXT"
+      ]
+    },
+    "TYL": {
+      "status": "resolved",
+      "provider_symbol": "TYL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "TYL"
+      ]
+    },
+    "UAL": {
+      "status": "resolved",
+      "provider_symbol": "UAL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UAL"
+      ]
+    },
+    "UBER": {
+      "status": "resolved",
+      "provider_symbol": "UBER",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UBER"
+      ]
+    },
+    "UDR": {
+      "status": "resolved",
+      "provider_symbol": "UDR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UDR"
+      ]
+    },
+    "UHS": {
+      "status": "resolved",
+      "provider_symbol": "UHS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UHS"
+      ]
+    },
+    "ULTA": {
+      "status": "resolved",
+      "provider_symbol": "ULTA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ULTA"
+      ]
+    },
+    "UNH": {
+      "status": "resolved",
+      "provider_symbol": "UNH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UNH"
+      ]
+    },
+    "UNP": {
+      "status": "resolved",
+      "provider_symbol": "UNP",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UNP"
+      ]
+    },
+    "UPS": {
+      "status": "resolved",
+      "provider_symbol": "UPS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "UPS"
+      ]
+    },
+    "URI": {
+      "status": "resolved",
+      "provider_symbol": "URI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "URI"
+      ]
+    },
+    "USB": {
+      "status": "resolved",
+      "provider_symbol": "USB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "USB"
+      ]
+    },
+    "V": {
+      "status": "resolved",
+      "provider_symbol": "V",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "V"
+      ]
+    },
+    "VICI": {
+      "status": "resolved",
+      "provider_symbol": "VICI",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VICI"
+      ]
+    },
+    "VLO": {
+      "status": "resolved",
+      "provider_symbol": "VLO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VLO"
+      ]
+    },
+    "VLTO": {
+      "status": "resolved",
+      "provider_symbol": "VLTO",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VLTO"
+      ]
+    },
+    "VMC": {
+      "status": "resolved",
+      "provider_symbol": "VMC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VMC"
+      ]
+    },
+    "VRSK": {
+      "status": "resolved",
+      "provider_symbol": "VRSK",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VRSK"
+      ]
+    },
+    "VRSN": {
+      "status": "resolved",
+      "provider_symbol": "VRSN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VRSN"
+      ]
+    },
+    "VRTX": {
+      "status": "resolved",
+      "provider_symbol": "VRTX",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VRTX"
+      ]
+    },
+    "VST": {
+      "status": "resolved",
+      "provider_symbol": "VST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VST"
+      ]
+    },
+    "VTR": {
+      "status": "resolved",
+      "provider_symbol": "VTR",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VTR"
+      ]
+    },
+    "VTRS": {
+      "status": "resolved",
+      "provider_symbol": "VTRS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VTRS"
+      ]
+    },
+    "VZ": {
+      "status": "resolved",
+      "provider_symbol": "VZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "VZ"
+      ]
+    },
+    "WAB": {
+      "status": "resolved",
+      "provider_symbol": "WAB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WAB"
+      ]
+    },
+    "WAT": {
+      "status": "resolved",
+      "provider_symbol": "WAT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WAT"
+      ]
+    },
+    "WBA": {
+      "status": "resolved",
+      "provider_symbol": "WBA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WBA"
+      ]
+    },
+    "WBD": {
+      "status": "resolved",
+      "provider_symbol": "WBD",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WBD"
+      ]
+    },
+    "WDAY": {
+      "status": "resolved",
+      "provider_symbol": "WDAY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WDAY"
+      ]
+    },
+    "WDC": {
+      "status": "resolved",
+      "provider_symbol": "WDC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WDC"
+      ]
+    },
+    "WEC": {
+      "status": "resolved",
+      "provider_symbol": "WEC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WEC"
+      ]
+    },
+    "WELL": {
+      "status": "resolved",
+      "provider_symbol": "WELL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WELL"
+      ]
+    },
+    "WFC": {
+      "status": "resolved",
+      "provider_symbol": "WFC",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WFC"
+      ]
+    },
+    "WM": {
+      "status": "resolved",
+      "provider_symbol": "WM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WM"
+      ]
+    },
+    "WMB": {
+      "status": "resolved",
+      "provider_symbol": "WMB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WMB"
+      ]
+    },
+    "WMT": {
+      "status": "resolved",
+      "provider_symbol": "WMT",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WMT"
+      ]
+    },
+    "WRB": {
+      "status": "resolved",
+      "provider_symbol": "WRB",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WRB"
+      ]
+    },
+    "WSM": {
+      "status": "resolved",
+      "provider_symbol": "WSM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WSM"
+      ]
+    },
+    "WST": {
+      "status": "resolved",
+      "provider_symbol": "WST",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WST"
+      ]
+    },
+    "WTW": {
+      "status": "resolved",
+      "provider_symbol": "WTW",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WTW"
+      ]
+    },
+    "WY": {
+      "status": "resolved",
+      "provider_symbol": "WY",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WY"
+      ]
+    },
+    "WYNN": {
+      "status": "resolved",
+      "provider_symbol": "WYNN",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "WYNN"
+      ]
+    },
+    "XEL": {
+      "status": "resolved",
+      "provider_symbol": "XEL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "XEL"
+      ]
+    },
+    "XOM": {
+      "status": "resolved",
+      "provider_symbol": "XOM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "XOM"
+      ]
+    },
+    "XYL": {
+      "status": "resolved",
+      "provider_symbol": "XYL",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "XYL"
+      ]
+    },
+    "XYZ": {
+      "status": "resolved",
+      "provider_symbol": "XYZ",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "XYZ"
+      ]
+    },
+    "YUM": {
+      "status": "resolved",
+      "provider_symbol": "YUM",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "YUM"
+      ]
+    },
+    "ZBH": {
+      "status": "resolved",
+      "provider_symbol": "ZBH",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ZBH"
+      ]
+    },
+    "ZBRA": {
+      "status": "resolved",
+      "provider_symbol": "ZBRA",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ZBRA"
+      ]
+    },
+    "ZTS": {
+      "status": "resolved",
+      "provider_symbol": "ZTS",
+      "probe_date": "2025-08-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ZTS"
+      ]
+    }
+  },
+  "credentials_recorded": false
+}

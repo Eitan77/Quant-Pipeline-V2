@@ -1,0 +1,11 @@
+experiment_id: phase1b_systematic_v1_through_20260430
+discovery_end: "2026-04-30"
+sealed_holdout_start: "2026-05-01"
+allow_holdout_access: false
+dual_factor_enabled: true
+phase1b_mode: systematic_only
+dual_factor_manifest_path: configs/phase1b_dual_factors.yaml
+binary_semantics_validation: error
+scan_schema_version: phase1ab_v3
+dual_cache_schema_version: phase1b_v3
+binary_primary_screen_inference: two_way_date_symbol

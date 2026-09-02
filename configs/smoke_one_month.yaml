@@ -1,0 +1,47 @@
+catalog_path: D:/AlgoResearch/data/catalog.duckdb
+source_table: derived_bars_5m
+feed: sip
+adjustment: raw
+start: "2024-02-01"
+discovery_end: "2024-02-29"
+sealed_holdout_start: "2026-05-01"
+allow_holdout_access: false
+use_separate_confirmation_period: false
+run_historical_walk_forward_diagnostics: true
+run_recent_period_diagnostics: true
+run_recency_weighted_diagnostics: true
+membership_table: qqq_pit_membership_daily
+require_membership: true
+corporate_actions_path: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/reference/corporate_actions_through_20260430.parquet
+require_corporate_actions: true
+lookbacks: [1, 3, 5, 10]
+target_horizons_minutes: [5, 15, 30, 60, 120]
+primary_target_horizons_minutes: [5, 15, 30, 60, 120]
+opening_windows_minutes: [5, 15, 30, 60]
+min_observations: 500
+min_sessions: 10
+min_symbols: 20
+min_decision_timestamps: 100
+min_years: 1
+min_bin_observations: 20
+output_root: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/runs
+experiment_id: phase1_four_fixes_smoke_one_month_202402
+use_cuda: true
+feature_workers: 8
+exact_workers: 4
+feature_chunk_size: 24
+target_chunk_size: 5
+exact_bootstrap_samples: 100
+max_candidates_per_feature_family: 5
+max_candidates_per_cluster: 2
+max_candidates_per_target_family: 10
+regime_min_observations: 200
+regime_min_sessions: 10
+regime_min_symbols: 10
+exact_time_min_observations: 100
+exact_time_min_sessions: 10
+exact_time_min_symbols: 10
+scope_min_observations: 200
+scope_min_sessions: 10
+scope_min_symbols: 2
+cache_schema_version: phase1_final

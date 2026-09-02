@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2022-09-30",
+  "task_signature": "88ac71a29a05baa9611faea114a40dc138ec9600da5f3790d48fbdc6cd2e7f5a",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "CTXS"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2024-12-19",
+  "task_signature": "a93bd9de6a3ed020c20396bf2c51152c8d605b8a22d2a7da210b38dfc5bd6f42",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "CTLT"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

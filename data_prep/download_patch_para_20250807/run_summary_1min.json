@@ -1,0 +1,16 @@
+{
+  "timeframe": "1Min",
+  "expected_symbol_sessions": 1,
+  "existing_covered_symbol_sessions": 0,
+  "planned_dates_with_missing_coverage": 1,
+  "checkpoint_skips": 0,
+  "pending_dates": 1,
+  "requested_symbols": 1,
+  "api_pages": 1,
+  "downloaded_rows": 170,
+  "completed_dates": 1,
+  "empty_dates": 0,
+  "failures": [],
+  "finished_at_utc": "2026-09-02T06:15:07.732381+00:00",
+  "run_seconds": 0.5469999999913853
+}

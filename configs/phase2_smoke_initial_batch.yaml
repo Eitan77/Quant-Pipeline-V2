@@ -1,0 +1,22 @@
+experiment_id: phase2_smoke_initial_batch_through_20260430
+discovery_start: '2019-06-21'
+discovery_end: '2026-04-30'
+sealed_holdout_start: '2026-05-01'
+allow_holdout_access: false
+phase1_source_run: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/runs/phase1_final_discovery_through_20260430
+phase1b_source_run: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/runs/phase1b_systematic_v1_through_20260430
+output_root: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/results
+run_initial_batch_only: true
+execution_models: [next_bar_open, quote_base]
+adverse_slippage_bps: [0, 1, 3, 5]
+weighting_methods: [equal]
+portfolio_forms: [long_only]
+strategies:
+  - {family: session_range, classification: phase1_supported, cluster: morning_continuation, signal: session_range_position, decision_times_et: ['09:55'], lookbacks_minutes: [5], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: opening_breakout, classification: phase1_supported, cluster: morning_continuation, signal: opening_breakout, decision_times_et: ['09:45'], lookbacks_minutes: [5], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: opening_breakdown, classification: phase1_supported, cluster: morning_continuation, signal: opening_breakdown, decision_times_et: ['09:45'], lookbacks_minutes: [5], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: vwap_slope, classification: phase1_supported, cluster: morning_continuation, signal: vwap_slope, decision_times_et: ['09:55'], lookbacks_minutes: [5], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: market_residual_reversal, classification: phase1_supported, cluster: reversal, signal: market_residual_return, decision_times_et: ['14:30'], lookbacks_minutes: [60], tails: [0.10], holding_periods_minutes: [30], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: conditional_higher_high, classification: phase1_conditional, cluster: morning_continuation, signal: higher_high, decision_times_et: ['10:25'], lookbacks_minutes: [15], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: overnight_gap_reversal, classification: new_diversification_hypothesis, cluster: overnight, signal: benchmark_adjusted_gap, decision_times_et: ['09:35'], lookbacks_minutes: [5], tails: [0.10], holding_periods_minutes: [60], weighting_methods: [equal], portfolio_forms: [long_only]}
+  - {family: afternoon_residual_reversal, classification: new_diversification_hypothesis, cluster: afternoon, signal: market_residual_return, decision_times_et: ['14:30'], lookbacks_minutes: [60], tails: [0.10], holding_periods_minutes: [30], weighting_methods: [equal], portfolio_forms: [long_only]}

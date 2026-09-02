@@ -1,0 +1,57 @@
+experiment_id: phase2_cleanroom_leverage_search_through_20260430
+source_run: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/runs/phase1_final_discovery_through_20260430
+output_root: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/results/phase2_cleanroom_leverage_search_through_20260430
+discovery_start: '2019-06-21'
+train_end: '2022-12-31'
+development_start: '2023-01-01'
+development_end: '2024-12-31'
+validation_start: '2025-01-01'
+discovery_end: '2026-04-30'
+sealed_holdout_start: '2026-05-01'
+allow_holdout_access: false
+event_grid_minutes: 30
+horizons_minutes: [15, 30, 60, 120]
+tails: [0.10, 0.20]
+directions: [1, -1]
+costs_bps_per_side: [0.5, 1.0, 2.0, 3.0, 5.0]
+primary_cost_bps_per_side: 1.0
+filters: [all, morning, afternoon, market_up, market_down, high_market_move, low_market_move, high_dispersion, low_dispersion, high_volume, low_volume]
+features:
+  session_range_position: {family: session_range, schedule: continuous}
+  vwap_slope: {family: vwap, schedule: continuous}
+  distance_session_vwap: {family: vwap, schedule: continuous}
+  rolling_vwap_distance_3: {family: vwap, schedule: continuous}
+  rolling_vwap_distance_6: {family: vwap, schedule: continuous}
+  rolling_vwap_distance_12: {family: vwap, schedule: continuous}
+  return_3: {family: momentum, schedule: continuous}
+  return_6: {family: momentum, schedule: continuous}
+  return_12: {family: momentum, schedule: continuous}
+  return_consistency_6: {family: momentum_quality, schedule: continuous}
+  return_consistency_12: {family: momentum_quality, schedule: continuous}
+  return_vol_ratio_3: {family: volatility_scaled_momentum, schedule: continuous}
+  return_vol_ratio_6: {family: volatility_scaled_momentum, schedule: continuous}
+  return_vol_ratio_12: {family: volatility_scaled_momentum, schedule: continuous}
+  stock_minus_market_return_3: {family: relative_strength, schedule: continuous}
+  stock_minus_market_return_6: {family: relative_strength, schedule: continuous}
+  stock_minus_market_return_12: {family: relative_strength, schedule: continuous}
+  market_residual_return_20: {family: residual, schedule: continuous}
+  market_residual_return_60: {family: residual, schedule: continuous}
+  range_position_3: {family: rolling_range, schedule: continuous}
+  range_position_6: {family: rolling_range, schedule: continuous}
+  range_position_12: {family: rolling_range, schedule: continuous}
+  close_location: {family: bar_structure, schedule: continuous}
+  unreacted_market_move_3: {family: lead_lag, schedule: continuous}
+  unreacted_market_move_5: {family: lead_lag, schedule: continuous}
+  unreacted_market_move_10: {family: lead_lag, schedule: continuous}
+  volume_range_ratio_6: {family: volume_price, schedule: continuous}
+  volume_range_ratio_12: {family: volume_price, schedule: continuous}
+  overnight_gap: {family: overnight, schedule: open_5}
+  opening_return_5m: {family: opening, schedule: open_10}
+  opening_close_location_5m: {family: opening, schedule: open_10}
+  opening_breakout_5m: {family: opening, schedule: open_10}
+  opening_breakdown_5m: {family: opening, schedule: open_10}
+  opening_return_15m: {family: opening, schedule: open_20}
+  opening_close_location_15m: {family: opening, schedule: open_20}
+  opening_breakout_15m: {family: opening, schedule: open_20}
+  opening_breakdown_15m: {family: opening, schedule: open_20}
+

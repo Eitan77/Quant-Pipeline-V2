@@ -1,0 +1,5899 @@
+{
+  "status": "passed",
+  "membership_sha256": "30e8f9810909aa333fde834e66cababd023366004a3ea8ce4ed757466a3d9e17",
+  "source_symbol_count": 654,
+  "resolved_count": 653,
+  "unresolved_count": 1,
+  "mapping": {
+    "A": {
+      "status": "resolved",
+      "provider_symbol": "A",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "A"
+      ]
+    },
+    "AAL": {
+      "status": "resolved",
+      "provider_symbol": "AAL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AAL"
+      ]
+    },
+    "AAP": {
+      "status": "resolved",
+      "provider_symbol": "AAP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AAP"
+      ]
+    },
+    "AAPL": {
+      "status": "resolved",
+      "provider_symbol": "AAPL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AAPL"
+      ]
+    },
+    "ABBV": {
+      "status": "resolved",
+      "provider_symbol": "ABBV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ABBV"
+      ]
+    },
+    "ABC": {
+      "status": "resolved",
+      "provider_symbol": "ABC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ABC"
+      ]
+    },
+    "ABMD": {
+      "status": "resolved",
+      "provider_symbol": "ABMD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ABMD"
+      ]
+    },
+    "ABNB": {
+      "status": "resolved",
+      "provider_symbol": "ABNB",
+      "probe_date": "2023-09-18",
+      "pages": 1,
+      "returned_symbols": [
+        "ABNB"
+      ]
+    },
+    "ABT": {
+      "status": "resolved",
+      "provider_symbol": "ABT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ABT"
+      ]
+    },
+    "ACGL": {
+      "status": "resolved",
+      "provider_symbol": "ACGL",
+      "probe_date": "2022-11-01",
+      "pages": 1,
+      "returned_symbols": [
+        "ACGL"
+      ]
+    },
+    "ACN": {
+      "status": "resolved",
+      "provider_symbol": "ACN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ACN"
+      ]
+    },
+    "ADBE": {
+      "status": "resolved",
+      "provider_symbol": "ADBE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADBE"
+      ]
+    },
+    "ADI": {
+      "status": "resolved",
+      "provider_symbol": "ADI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADI"
+      ]
+    },
+    "ADM": {
+      "status": "resolved",
+      "provider_symbol": "ADM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADM"
+      ]
+    },
+    "ADP": {
+      "status": "resolved",
+      "provider_symbol": "ADP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADP"
+      ]
+    },
+    "ADS": {
+      "status": "resolved",
+      "provider_symbol": "ADS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADS"
+      ]
+    },
+    "ADSK": {
+      "status": "resolved",
+      "provider_symbol": "ADSK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ADSK"
+      ]
+    },
+    "AEE": {
+      "status": "resolved",
+      "provider_symbol": "AEE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AEE"
+      ]
+    },
+    "AEP": {
+      "status": "resolved",
+      "provider_symbol": "AEP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AEP"
+      ]
+    },
+    "AES": {
+      "status": "resolved",
+      "provider_symbol": "AES",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AES"
+      ]
+    },
+    "AFL": {
+      "status": "resolved",
+      "provider_symbol": "AFL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AFL"
+      ]
+    },
+    "AGN": {
+      "status": "resolved",
+      "provider_symbol": "AGN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AGN"
+      ]
+    },
+    "AIG": {
+      "status": "resolved",
+      "provider_symbol": "AIG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AIG"
+      ]
+    },
+    "AIV": {
+      "status": "resolved",
+      "provider_symbol": "AIV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AIV"
+      ]
+    },
+    "AIZ": {
+      "status": "resolved",
+      "provider_symbol": "AIZ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AIZ"
+      ]
+    },
+    "AJG": {
+      "status": "resolved",
+      "provider_symbol": "AJG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AJG"
+      ]
+    },
+    "AKAM": {
+      "status": "resolved",
+      "provider_symbol": "AKAM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AKAM"
+      ]
+    },
+    "ALB": {
+      "status": "resolved",
+      "provider_symbol": "ALB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALB"
+      ]
+    },
+    "ALGN": {
+      "status": "resolved",
+      "provider_symbol": "ALGN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALGN"
+      ]
+    },
+    "ALK": {
+      "status": "resolved",
+      "provider_symbol": "ALK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALK"
+      ]
+    },
+    "ALL": {
+      "status": "resolved",
+      "provider_symbol": "ALL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALL"
+      ]
+    },
+    "ALLE": {
+      "status": "resolved",
+      "provider_symbol": "ALLE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALLE"
+      ]
+    },
+    "ALXN": {
+      "status": "resolved",
+      "provider_symbol": "ALXN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ALXN"
+      ]
+    },
+    "AMAT": {
+      "status": "resolved",
+      "provider_symbol": "AMAT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMAT"
+      ]
+    },
+    "AMCR": {
+      "status": "resolved",
+      "provider_symbol": "AMCR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMCR"
+      ]
+    },
+    "AMD": {
+      "status": "resolved",
+      "provider_symbol": "AMD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMD"
+      ]
+    },
+    "AME": {
+      "status": "resolved",
+      "provider_symbol": "AME",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AME"
+      ]
+    },
+    "AMG": {
+      "status": "resolved",
+      "provider_symbol": "AMG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMG"
+      ]
+    },
+    "AMGN": {
+      "status": "resolved",
+      "provider_symbol": "AMGN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMGN"
+      ]
+    },
+    "AMP": {
+      "status": "resolved",
+      "provider_symbol": "AMP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMP"
+      ]
+    },
+    "AMT": {
+      "status": "resolved",
+      "provider_symbol": "AMT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMT"
+      ]
+    },
+    "AMTM": {
+      "status": "resolved",
+      "provider_symbol": "AMTM",
+      "probe_date": "2024-09-30",
+      "pages": 1,
+      "returned_symbols": [
+        "AMTM"
+      ]
+    },
+    "AMZN": {
+      "status": "resolved",
+      "provider_symbol": "AMZN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AMZN"
+      ]
+    },
+    "ANET": {
+      "status": "resolved",
+      "provider_symbol": "ANET",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ANET"
+      ]
+    },
+    "ANSS": {
+      "status": "resolved",
+      "provider_symbol": "ANSS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ANSS"
+      ]
+    },
+    "ANTM": {
+      "status": "resolved",
+      "provider_symbol": "ANTM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ANTM"
+      ]
+    },
+    "AON": {
+      "status": "resolved",
+      "provider_symbol": "AON",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AON"
+      ]
+    },
+    "AOS": {
+      "status": "resolved",
+      "provider_symbol": "AOS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AOS"
+      ]
+    },
+    "APA": {
+      "status": "resolved",
+      "provider_symbol": "APA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "APA"
+      ]
+    },
+    "APC": {
+      "status": "resolved",
+      "provider_symbol": "APC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "APC"
+      ]
+    },
+    "APD": {
+      "status": "resolved",
+      "provider_symbol": "APD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "APD"
+      ]
+    },
+    "APH": {
+      "status": "resolved",
+      "provider_symbol": "APH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "APH"
+      ]
+    },
+    "APO": {
+      "status": "resolved",
+      "provider_symbol": "APO",
+      "probe_date": "2024-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "APO"
+      ]
+    },
+    "APP": {
+      "status": "resolved",
+      "provider_symbol": "APP",
+      "probe_date": "2025-09-22",
+      "pages": 1,
+      "returned_symbols": [
+        "APP"
+      ]
+    },
+    "APTV": {
+      "status": "resolved",
+      "provider_symbol": "APTV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "APTV"
+      ]
+    },
+    "ARE": {
+      "status": "resolved",
+      "provider_symbol": "ARE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ARE"
+      ]
+    },
+    "ARES": {
+      "status": "resolved",
+      "provider_symbol": "ARES",
+      "probe_date": "2025-12-11",
+      "pages": 1,
+      "returned_symbols": [
+        "ARES"
+      ]
+    },
+    "ARNC": {
+      "status": "resolved",
+      "provider_symbol": "ARNC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ARNC"
+      ]
+    },
+    "ATO": {
+      "status": "resolved",
+      "provider_symbol": "ATO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ATO"
+      ]
+    },
+    "ATVI": {
+      "status": "resolved",
+      "provider_symbol": "ATVI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ATVI"
+      ]
+    },
+    "AVB": {
+      "status": "resolved",
+      "provider_symbol": "AVB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AVB"
+      ]
+    },
+    "AVGO": {
+      "status": "resolved",
+      "provider_symbol": "AVGO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AVGO"
+      ]
+    },
+    "AVY": {
+      "status": "resolved",
+      "provider_symbol": "AVY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AVY"
+      ]
+    },
+    "AWK": {
+      "status": "resolved",
+      "provider_symbol": "AWK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AWK"
+      ]
+    },
+    "AXON": {
+      "status": "resolved",
+      "provider_symbol": "AXON",
+      "probe_date": "2023-05-04",
+      "pages": 1,
+      "returned_symbols": [
+        "AXON"
+      ]
+    },
+    "AXP": {
+      "status": "resolved",
+      "provider_symbol": "AXP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AXP"
+      ]
+    },
+    "AZO": {
+      "status": "resolved",
+      "provider_symbol": "AZO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "AZO"
+      ]
+    },
+    "BA": {
+      "status": "resolved",
+      "provider_symbol": "BA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BA"
+      ]
+    },
+    "BAC": {
+      "status": "resolved",
+      "provider_symbol": "BAC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BAC"
+      ]
+    },
+    "BALL": {
+      "status": "resolved",
+      "provider_symbol": "BALL",
+      "probe_date": "2022-05-10",
+      "pages": 1,
+      "returned_symbols": [
+        "BALL"
+      ]
+    },
+    "BAX": {
+      "status": "resolved",
+      "provider_symbol": "BAX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BAX"
+      ]
+    },
+    "BBT": {
+      "status": "resolved",
+      "provider_symbol": "BBT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BBT"
+      ]
+    },
+    "BBWI": {
+      "status": "resolved",
+      "provider_symbol": "BBWI",
+      "probe_date": "2021-08-03",
+      "pages": 1,
+      "returned_symbols": [
+        "BBWI"
+      ]
+    },
+    "BBY": {
+      "status": "resolved",
+      "provider_symbol": "BBY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BBY"
+      ]
+    },
+    "BDX": {
+      "status": "resolved",
+      "provider_symbol": "BDX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BDX"
+      ]
+    },
+    "BEN": {
+      "status": "resolved",
+      "provider_symbol": "BEN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BEN"
+      ]
+    },
+    "BF.B": {
+      "status": "resolved",
+      "provider_symbol": "BF.B",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BF.B"
+      ]
+    },
+    "BG": {
+      "status": "resolved",
+      "provider_symbol": "BG",
+      "probe_date": "2023-03-15",
+      "pages": 1,
+      "returned_symbols": [
+        "BG"
+      ]
+    },
+    "BHGE": {
+      "status": "resolved",
+      "provider_symbol": "BHGE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BHGE"
+      ]
+    },
+    "BIIB": {
+      "status": "resolved",
+      "provider_symbol": "BIIB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BIIB"
+      ]
+    },
+    "BIO": {
+      "status": "resolved",
+      "provider_symbol": "BIO",
+      "probe_date": "2020-06-22",
+      "pages": 1,
+      "returned_symbols": [
+        "BIO"
+      ]
+    },
+    "BK": {
+      "status": "resolved",
+      "provider_symbol": "BK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BK"
+      ]
+    },
+    "BKNG": {
+      "status": "resolved",
+      "provider_symbol": "BKNG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BKNG"
+      ]
+    },
+    "BKR": {
+      "status": "resolved",
+      "provider_symbol": "BKR",
+      "probe_date": "2019-10-18",
+      "pages": 1,
+      "returned_symbols": [
+        "BKR"
+      ]
+    },
+    "BLDR": {
+      "status": "resolved",
+      "provider_symbol": "BLDR",
+      "probe_date": "2023-12-18",
+      "pages": 1,
+      "returned_symbols": [
+        "BLDR"
+      ]
+    },
+    "BLK": {
+      "status": "resolved",
+      "provider_symbol": "BLK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BLK"
+      ]
+    },
+    "BLL": {
+      "status": "resolved",
+      "provider_symbol": "BLL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BLL"
+      ]
+    },
+    "BMY": {
+      "status": "resolved",
+      "provider_symbol": "BMY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BMY"
+      ]
+    },
+    "BR": {
+      "status": "resolved",
+      "provider_symbol": "BR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BR"
+      ]
+    },
+    "BRK.B": {
+      "status": "resolved",
+      "provider_symbol": "BRK.B",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BRK.B"
+      ]
+    },
+    "BRO": {
+      "status": "resolved",
+      "provider_symbol": "BRO",
+      "probe_date": "2021-09-20",
+      "pages": 1,
+      "returned_symbols": [
+        "BRO"
+      ]
+    },
+    "BSX": {
+      "status": "resolved",
+      "provider_symbol": "BSX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BSX"
+      ]
+    },
+    "BWA": {
+      "status": "resolved",
+      "provider_symbol": "BWA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BWA"
+      ]
+    },
+    "BX": {
+      "status": "resolved",
+      "provider_symbol": "BX",
+      "probe_date": "2023-09-18",
+      "pages": 1,
+      "returned_symbols": [
+        "BX"
+      ]
+    },
+    "BXP": {
+      "status": "resolved",
+      "provider_symbol": "BXP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "BXP"
+      ]
+    },
+    "C": {
+      "status": "resolved",
+      "provider_symbol": "C",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "C"
+      ]
+    },
+    "CAG": {
+      "status": "resolved",
+      "provider_symbol": "CAG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CAG"
+      ]
+    },
+    "CAH": {
+      "status": "resolved",
+      "provider_symbol": "CAH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CAH"
+      ]
+    },
+    "CARR": {
+      "status": "resolved",
+      "provider_symbol": "CARR",
+      "probe_date": "2020-04-03",
+      "pages": 1,
+      "returned_symbols": [
+        "CARR"
+      ]
+    },
+    "CASY": {
+      "status": "resolved",
+      "provider_symbol": "CASY",
+      "probe_date": "2026-04-09",
+      "pages": 1,
+      "returned_symbols": [
+        "CASY"
+      ]
+    },
+    "CAT": {
+      "status": "resolved",
+      "provider_symbol": "CAT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CAT"
+      ]
+    },
+    "CB": {
+      "status": "resolved",
+      "provider_symbol": "CB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CB"
+      ]
+    },
+    "CBOE": {
+      "status": "resolved",
+      "provider_symbol": "CBOE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CBOE"
+      ]
+    },
+    "CBRE": {
+      "status": "resolved",
+      "provider_symbol": "CBRE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CBRE"
+      ]
+    },
+    "CBS": {
+      "status": "resolved",
+      "provider_symbol": "CBS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CBS"
+      ]
+    },
+    "CCI": {
+      "status": "resolved",
+      "provider_symbol": "CCI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CCI"
+      ]
+    },
+    "CCL": {
+      "status": "resolved",
+      "provider_symbol": "CCL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CCL"
+      ]
+    },
+    "CDAY": {
+      "status": "resolved",
+      "provider_symbol": "CDAY",
+      "probe_date": "2021-09-20",
+      "pages": 1,
+      "returned_symbols": [
+        "CDAY"
+      ]
+    },
+    "CDNS": {
+      "status": "resolved",
+      "provider_symbol": "CDNS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CDNS"
+      ]
+    },
+    "CDW": {
+      "status": "resolved",
+      "provider_symbol": "CDW",
+      "probe_date": "2019-09-23",
+      "pages": 1,
+      "returned_symbols": [
+        "CDW"
+      ]
+    },
+    "CE": {
+      "status": "resolved",
+      "provider_symbol": "CE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CE"
+      ]
+    },
+    "CEG": {
+      "status": "resolved",
+      "provider_symbol": "CEG",
+      "probe_date": "2022-02-02",
+      "pages": 1,
+      "returned_symbols": [
+        "CEG"
+      ]
+    },
+    "CELG": {
+      "status": "resolved",
+      "provider_symbol": "CELG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CELG"
+      ]
+    },
+    "CERN": {
+      "status": "resolved",
+      "provider_symbol": "CERN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CERN"
+      ]
+    },
+    "CF": {
+      "status": "resolved",
+      "provider_symbol": "CF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CF"
+      ]
+    },
+    "CFG": {
+      "status": "resolved",
+      "provider_symbol": "CFG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CFG"
+      ]
+    },
+    "CHD": {
+      "status": "resolved",
+      "provider_symbol": "CHD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CHD"
+      ]
+    },
+    "CHRW": {
+      "status": "resolved",
+      "provider_symbol": "CHRW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CHRW"
+      ]
+    },
+    "CHTR": {
+      "status": "resolved",
+      "provider_symbol": "CHTR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CHTR"
+      ]
+    },
+    "CI": {
+      "status": "resolved",
+      "provider_symbol": "CI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CI"
+      ]
+    },
+    "CIEN": {
+      "status": "resolved",
+      "provider_symbol": "CIEN",
+      "probe_date": "2026-02-09",
+      "pages": 1,
+      "returned_symbols": [
+        "CIEN"
+      ]
+    },
+    "CINF": {
+      "status": "resolved",
+      "provider_symbol": "CINF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CINF"
+      ]
+    },
+    "CL": {
+      "status": "resolved",
+      "provider_symbol": "CL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CL"
+      ]
+    },
+    "CLX": {
+      "status": "resolved",
+      "provider_symbol": "CLX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CLX"
+      ]
+    },
+    "CMA": {
+      "status": "resolved",
+      "provider_symbol": "CMA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CMA"
+      ]
+    },
+    "CMCSA": {
+      "status": "resolved",
+      "provider_symbol": "CMCSA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CMCSA"
+      ]
+    },
+    "CME": {
+      "status": "resolved",
+      "provider_symbol": "CME",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CME"
+      ]
+    },
+    "CMG": {
+      "status": "resolved",
+      "provider_symbol": "CMG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CMG"
+      ]
+    },
+    "CMI": {
+      "status": "resolved",
+      "provider_symbol": "CMI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CMI"
+      ]
+    },
+    "CMS": {
+      "status": "resolved",
+      "provider_symbol": "CMS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CMS"
+      ]
+    },
+    "CNC": {
+      "status": "resolved",
+      "provider_symbol": "CNC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CNC"
+      ]
+    },
+    "CNP": {
+      "status": "resolved",
+      "provider_symbol": "CNP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CNP"
+      ]
+    },
+    "COF": {
+      "status": "resolved",
+      "provider_symbol": "COF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COF"
+      ]
+    },
+    "COG": {
+      "status": "resolved",
+      "provider_symbol": "COG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COG"
+      ]
+    },
+    "COHR": {
+      "status": "resolved",
+      "provider_symbol": "COHR",
+      "probe_date": "2026-03-23",
+      "pages": 1,
+      "returned_symbols": [
+        "COHR"
+      ]
+    },
+    "COIN": {
+      "status": "resolved",
+      "provider_symbol": "COIN",
+      "probe_date": "2025-05-19",
+      "pages": 1,
+      "returned_symbols": [
+        "COIN"
+      ]
+    },
+    "COO": {
+      "status": "resolved",
+      "provider_symbol": "COO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COO"
+      ]
+    },
+    "COP": {
+      "status": "resolved",
+      "provider_symbol": "COP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COP"
+      ]
+    },
+    "COR": {
+      "status": "resolved",
+      "provider_symbol": "COR",
+      "probe_date": "2023-08-30",
+      "pages": 1,
+      "returned_symbols": [
+        "COR"
+      ]
+    },
+    "COST": {
+      "status": "resolved",
+      "provider_symbol": "COST",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COST"
+      ]
+    },
+    "COTY": {
+      "status": "resolved",
+      "provider_symbol": "COTY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "COTY"
+      ]
+    },
+    "CPAY": {
+      "status": "resolved",
+      "provider_symbol": "CPAY",
+      "probe_date": "2024-03-25",
+      "pages": 1,
+      "returned_symbols": [
+        "CPAY"
+      ]
+    },
+    "CPB": {
+      "status": "resolved",
+      "provider_symbol": "CPB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CPB"
+      ]
+    },
+    "CPRI": {
+      "status": "resolved",
+      "provider_symbol": "CPRI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CPRI"
+      ]
+    },
+    "CPRT": {
+      "status": "resolved",
+      "provider_symbol": "CPRT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CPRT"
+      ]
+    },
+    "CPT": {
+      "status": "resolved",
+      "provider_symbol": "CPT",
+      "probe_date": "2022-04-04",
+      "pages": 1,
+      "returned_symbols": [
+        "CPT"
+      ]
+    },
+    "CRH": {
+      "status": "resolved",
+      "provider_symbol": "CRH",
+      "probe_date": "2025-12-22",
+      "pages": 1,
+      "returned_symbols": [
+        "CRH"
+      ]
+    },
+    "CRL": {
+      "status": "resolved",
+      "provider_symbol": "CRL",
+      "probe_date": "2021-05-14",
+      "pages": 1,
+      "returned_symbols": [
+        "CRL"
+      ]
+    },
+    "CRM": {
+      "status": "resolved",
+      "provider_symbol": "CRM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CRM"
+      ]
+    },
+    "CRWD": {
+      "status": "resolved",
+      "provider_symbol": "CRWD",
+      "probe_date": "2024-06-24",
+      "pages": 1,
+      "returned_symbols": [
+        "CRWD"
+      ]
+    },
+    "CSCO": {
+      "status": "resolved",
+      "provider_symbol": "CSCO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CSCO"
+      ]
+    },
+    "CSGP": {
+      "status": "resolved",
+      "provider_symbol": "CSGP",
+      "probe_date": "2022-09-19",
+      "pages": 1,
+      "returned_symbols": [
+        "CSGP"
+      ]
+    },
+    "CSX": {
+      "status": "resolved",
+      "provider_symbol": "CSX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CSX"
+      ]
+    },
+    "CTAS": {
+      "status": "resolved",
+      "provider_symbol": "CTAS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTAS"
+      ]
+    },
+    "CTL": {
+      "status": "resolved",
+      "provider_symbol": "CTL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTL"
+      ]
+    },
+    "CTLT": {
+      "status": "resolved",
+      "provider_symbol": "CTLT",
+      "probe_date": "2020-09-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTLT"
+      ]
+    },
+    "CTRA": {
+      "status": "resolved",
+      "provider_symbol": "CTRA",
+      "probe_date": "2021-10-04",
+      "pages": 1,
+      "returned_symbols": [
+        "CTRA"
+      ]
+    },
+    "CTSH": {
+      "status": "resolved",
+      "provider_symbol": "CTSH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTSH"
+      ]
+    },
+    "CTVA": {
+      "status": "resolved",
+      "provider_symbol": "CTVA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTVA"
+      ]
+    },
+    "CTXS": {
+      "status": "resolved",
+      "provider_symbol": "CTXS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CTXS"
+      ]
+    },
+    "CVNA": {
+      "status": "resolved",
+      "provider_symbol": "CVNA",
+      "probe_date": "2025-12-22",
+      "pages": 1,
+      "returned_symbols": [
+        "CVNA"
+      ]
+    },
+    "CVS": {
+      "status": "resolved",
+      "provider_symbol": "CVS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CVS"
+      ]
+    },
+    "CVX": {
+      "status": "resolved",
+      "provider_symbol": "CVX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CVX"
+      ]
+    },
+    "CXO": {
+      "status": "resolved",
+      "provider_symbol": "CXO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "CXO"
+      ]
+    },
+    "CZR": {
+      "status": "resolved",
+      "provider_symbol": "CZR",
+      "probe_date": "2021-03-22",
+      "pages": 1,
+      "returned_symbols": [
+        "CZR"
+      ]
+    },
+    "D": {
+      "status": "resolved",
+      "provider_symbol": "D",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "D"
+      ]
+    },
+    "DAL": {
+      "status": "resolved",
+      "provider_symbol": "DAL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DAL"
+      ]
+    },
+    "DASH": {
+      "status": "resolved",
+      "provider_symbol": "DASH",
+      "probe_date": "2025-03-24",
+      "pages": 1,
+      "returned_symbols": [
+        "DASH"
+      ]
+    },
+    "DAY": {
+      "status": "resolved",
+      "provider_symbol": "DAY",
+      "probe_date": "2024-02-01",
+      "pages": 1,
+      "returned_symbols": [
+        "DAY"
+      ]
+    },
+    "DD": {
+      "status": "resolved",
+      "provider_symbol": "DD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DD"
+      ]
+    },
+    "DDOG": {
+      "status": "resolved",
+      "provider_symbol": "DDOG",
+      "probe_date": "2025-07-09",
+      "pages": 1,
+      "returned_symbols": [
+        "DDOG"
+      ]
+    },
+    "DE": {
+      "status": "resolved",
+      "provider_symbol": "DE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DE"
+      ]
+    },
+    "DECK": {
+      "status": "resolved",
+      "provider_symbol": "DECK",
+      "probe_date": "2024-03-18",
+      "pages": 1,
+      "returned_symbols": [
+        "DECK"
+      ]
+    },
+    "DELL": {
+      "status": "resolved",
+      "provider_symbol": "DELL",
+      "probe_date": "2024-09-23",
+      "pages": 1,
+      "returned_symbols": [
+        "DELL"
+      ]
+    },
+    "DFS": {
+      "status": "resolved",
+      "provider_symbol": "DFS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DFS"
+      ]
+    },
+    "DG": {
+      "status": "resolved",
+      "provider_symbol": "DG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DG"
+      ]
+    },
+    "DGX": {
+      "status": "resolved",
+      "provider_symbol": "DGX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DGX"
+      ]
+    },
+    "DHI": {
+      "status": "resolved",
+      "provider_symbol": "DHI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DHI"
+      ]
+    },
+    "DHR": {
+      "status": "resolved",
+      "provider_symbol": "DHR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DHR"
+      ]
+    },
+    "DIS": {
+      "status": "resolved",
+      "provider_symbol": "DIS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DIS"
+      ]
+    },
+    "DISCA": {
+      "status": "resolved",
+      "provider_symbol": "DISCA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DISCA"
+      ]
+    },
+    "DISCK": {
+      "status": "resolved",
+      "provider_symbol": "DISCK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DISCK"
+      ]
+    },
+    "DISH": {
+      "status": "resolved",
+      "provider_symbol": "DISH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DISH"
+      ]
+    },
+    "DLR": {
+      "status": "resolved",
+      "provider_symbol": "DLR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DLR"
+      ]
+    },
+    "DLTR": {
+      "status": "resolved",
+      "provider_symbol": "DLTR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DLTR"
+      ]
+    },
+    "DOC": {
+      "status": "resolved",
+      "provider_symbol": "DOC",
+      "probe_date": "2024-03-04",
+      "pages": 1,
+      "returned_symbols": [
+        "DOC"
+      ]
+    },
+    "DOV": {
+      "status": "resolved",
+      "provider_symbol": "DOV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DOV"
+      ]
+    },
+    "DOW": {
+      "status": "resolved",
+      "provider_symbol": "DOW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DOW"
+      ]
+    },
+    "DPZ": {
+      "status": "resolved",
+      "provider_symbol": "DPZ",
+      "probe_date": "2020-05-12",
+      "pages": 1,
+      "returned_symbols": [
+        "DPZ"
+      ]
+    },
+    "DRE": {
+      "status": "resolved",
+      "provider_symbol": "DRE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DRE"
+      ]
+    },
+    "DRI": {
+      "status": "resolved",
+      "provider_symbol": "DRI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DRI"
+      ]
+    },
+    "DTE": {
+      "status": "resolved",
+      "provider_symbol": "DTE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DTE"
+      ]
+    },
+    "DUK": {
+      "status": "resolved",
+      "provider_symbol": "DUK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DUK"
+      ]
+    },
+    "DVA": {
+      "status": "resolved",
+      "provider_symbol": "DVA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DVA"
+      ]
+    },
+    "DVN": {
+      "status": "resolved",
+      "provider_symbol": "DVN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DVN"
+      ]
+    },
+    "DXC": {
+      "status": "resolved",
+      "provider_symbol": "DXC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "DXC"
+      ]
+    },
+    "DXCM": {
+      "status": "resolved",
+      "provider_symbol": "DXCM",
+      "probe_date": "2020-05-12",
+      "pages": 1,
+      "returned_symbols": [
+        "DXCM"
+      ]
+    },
+    "EA": {
+      "status": "resolved",
+      "provider_symbol": "EA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EA"
+      ]
+    },
+    "EBAY": {
+      "status": "resolved",
+      "provider_symbol": "EBAY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EBAY"
+      ]
+    },
+    "ECL": {
+      "status": "resolved",
+      "provider_symbol": "ECL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ECL"
+      ]
+    },
+    "ED": {
+      "status": "resolved",
+      "provider_symbol": "ED",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ED"
+      ]
+    },
+    "EFX": {
+      "status": "resolved",
+      "provider_symbol": "EFX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EFX"
+      ]
+    },
+    "EG": {
+      "status": "resolved",
+      "provider_symbol": "EG",
+      "probe_date": "2023-07-10",
+      "pages": 1,
+      "returned_symbols": [
+        "EG"
+      ]
+    },
+    "EIX": {
+      "status": "resolved",
+      "provider_symbol": "EIX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EIX"
+      ]
+    },
+    "EL": {
+      "status": "resolved",
+      "provider_symbol": "EL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EL"
+      ]
+    },
+    "ELV": {
+      "status": "resolved",
+      "provider_symbol": "ELV",
+      "probe_date": "2022-06-28",
+      "pages": 1,
+      "returned_symbols": [
+        "ELV"
+      ]
+    },
+    "EME": {
+      "status": "resolved",
+      "provider_symbol": "EME",
+      "probe_date": "2025-09-22",
+      "pages": 1,
+      "returned_symbols": [
+        "EME"
+      ]
+    },
+    "EMN": {
+      "status": "resolved",
+      "provider_symbol": "EMN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EMN"
+      ]
+    },
+    "EMR": {
+      "status": "resolved",
+      "provider_symbol": "EMR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EMR"
+      ]
+    },
+    "ENPH": {
+      "status": "resolved",
+      "provider_symbol": "ENPH",
+      "probe_date": "2021-01-07",
+      "pages": 1,
+      "returned_symbols": [
+        "ENPH"
+      ]
+    },
+    "EOG": {
+      "status": "resolved",
+      "provider_symbol": "EOG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EOG"
+      ]
+    },
+    "EPAM": {
+      "status": "resolved",
+      "provider_symbol": "EPAM",
+      "probe_date": "2021-12-14",
+      "pages": 1,
+      "returned_symbols": [
+        "EPAM"
+      ]
+    },
+    "EQIX": {
+      "status": "resolved",
+      "provider_symbol": "EQIX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EQIX"
+      ]
+    },
+    "EQR": {
+      "status": "resolved",
+      "provider_symbol": "EQR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EQR"
+      ]
+    },
+    "EQT": {
+      "status": "resolved",
+      "provider_symbol": "EQT",
+      "probe_date": "2022-10-03",
+      "pages": 1,
+      "returned_symbols": [
+        "EQT"
+      ]
+    },
+    "ERIE": {
+      "status": "resolved",
+      "provider_symbol": "ERIE",
+      "probe_date": "2024-09-23",
+      "pages": 1,
+      "returned_symbols": [
+        "ERIE"
+      ]
+    },
+    "ES": {
+      "status": "resolved",
+      "provider_symbol": "ES",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ES"
+      ]
+    },
+    "ESS": {
+      "status": "resolved",
+      "provider_symbol": "ESS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ESS"
+      ]
+    },
+    "ETFC": {
+      "status": "resolved",
+      "provider_symbol": "ETFC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ETFC"
+      ]
+    },
+    "ETN": {
+      "status": "resolved",
+      "provider_symbol": "ETN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ETN"
+      ]
+    },
+    "ETR": {
+      "status": "resolved",
+      "provider_symbol": "ETR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ETR"
+      ]
+    },
+    "ETSY": {
+      "status": "resolved",
+      "provider_symbol": "ETSY",
+      "probe_date": "2020-09-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ETSY"
+      ]
+    },
+    "EVRG": {
+      "status": "resolved",
+      "provider_symbol": "EVRG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EVRG"
+      ]
+    },
+    "EW": {
+      "status": "resolved",
+      "provider_symbol": "EW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EW"
+      ]
+    },
+    "EXC": {
+      "status": "resolved",
+      "provider_symbol": "EXC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EXC"
+      ]
+    },
+    "EXE": {
+      "status": "resolved",
+      "provider_symbol": "EXE",
+      "probe_date": "2025-03-24",
+      "pages": 1,
+      "returned_symbols": [
+        "EXE"
+      ]
+    },
+    "EXPD": {
+      "status": "resolved",
+      "provider_symbol": "EXPD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EXPD"
+      ]
+    },
+    "EXPE": {
+      "status": "resolved",
+      "provider_symbol": "EXPE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EXPE"
+      ]
+    },
+    "EXR": {
+      "status": "resolved",
+      "provider_symbol": "EXR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "EXR"
+      ]
+    },
+    "F": {
+      "status": "resolved",
+      "provider_symbol": "F",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "F"
+      ]
+    },
+    "FANG": {
+      "status": "resolved",
+      "provider_symbol": "FANG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FANG"
+      ]
+    },
+    "FAST": {
+      "status": "resolved",
+      "provider_symbol": "FAST",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FAST"
+      ]
+    },
+    "FB": {
+      "status": "resolved",
+      "provider_symbol": "FB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FB"
+      ]
+    },
+    "FBHS": {
+      "status": "resolved",
+      "provider_symbol": "FBHS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FBHS"
+      ]
+    },
+    "FCX": {
+      "status": "resolved",
+      "provider_symbol": "FCX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FCX"
+      ]
+    },
+    "FDS": {
+      "status": "resolved",
+      "provider_symbol": "FDS",
+      "probe_date": "2021-12-20",
+      "pages": 1,
+      "returned_symbols": [
+        "FDS"
+      ]
+    },
+    "FDX": {
+      "status": "resolved",
+      "provider_symbol": "FDX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FDX"
+      ]
+    },
+    "FE": {
+      "status": "resolved",
+      "provider_symbol": "FE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FE"
+      ]
+    },
+    "FFIV": {
+      "status": "resolved",
+      "provider_symbol": "FFIV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FFIV"
+      ]
+    },
+    "FI": {
+      "status": "resolved",
+      "provider_symbol": "FI",
+      "probe_date": "2023-06-07",
+      "pages": 1,
+      "returned_symbols": [
+        "FI"
+      ]
+    },
+    "FICO": {
+      "status": "resolved",
+      "provider_symbol": "FICO",
+      "probe_date": "2023-03-20",
+      "pages": 1,
+      "returned_symbols": [
+        "FICO"
+      ]
+    },
+    "FIS": {
+      "status": "resolved",
+      "provider_symbol": "FIS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FIS"
+      ]
+    },
+    "FISV": {
+      "status": "resolved",
+      "provider_symbol": "FISV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FISV"
+      ]
+    },
+    "FITB": {
+      "status": "resolved",
+      "provider_symbol": "FITB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FITB"
+      ]
+    },
+    "FIX": {
+      "status": "resolved",
+      "provider_symbol": "FIX",
+      "probe_date": "2025-12-22",
+      "pages": 1,
+      "returned_symbols": [
+        "FIX"
+      ]
+    },
+    "FL": {
+      "status": "resolved",
+      "provider_symbol": "FL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FL"
+      ]
+    },
+    "FLIR": {
+      "status": "resolved",
+      "provider_symbol": "FLIR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FLIR"
+      ]
+    },
+    "FLS": {
+      "status": "resolved",
+      "provider_symbol": "FLS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FLS"
+      ]
+    },
+    "FLT": {
+      "status": "resolved",
+      "provider_symbol": "FLT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FLT"
+      ]
+    },
+    "FMC": {
+      "status": "resolved",
+      "provider_symbol": "FMC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FMC"
+      ]
+    },
+    "FOX": {
+      "status": "resolved",
+      "provider_symbol": "FOX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FOX"
+      ]
+    },
+    "FOXA": {
+      "status": "resolved",
+      "provider_symbol": "FOXA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FOXA"
+      ]
+    },
+    "FRC": {
+      "status": "resolved",
+      "provider_symbol": "FRC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FRC"
+      ]
+    },
+    "FRT": {
+      "status": "resolved",
+      "provider_symbol": "FRT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FRT"
+      ]
+    },
+    "FSLR": {
+      "status": "resolved",
+      "provider_symbol": "FSLR",
+      "probe_date": "2022-12-19",
+      "pages": 1,
+      "returned_symbols": [
+        "FSLR"
+      ]
+    },
+    "FTI": {
+      "status": "resolved",
+      "provider_symbol": "FTI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FTI"
+      ]
+    },
+    "FTNT": {
+      "status": "resolved",
+      "provider_symbol": "FTNT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FTNT"
+      ]
+    },
+    "FTV": {
+      "status": "resolved",
+      "provider_symbol": "FTV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "FTV"
+      ]
+    },
+    "GD": {
+      "status": "resolved",
+      "provider_symbol": "GD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GD"
+      ]
+    },
+    "GDDY": {
+      "status": "resolved",
+      "provider_symbol": "GDDY",
+      "probe_date": "2024-06-24",
+      "pages": 1,
+      "returned_symbols": [
+        "GDDY"
+      ]
+    },
+    "GE": {
+      "status": "resolved",
+      "provider_symbol": "GE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GE"
+      ]
+    },
+    "GEHC": {
+      "status": "resolved",
+      "provider_symbol": "GEHC",
+      "probe_date": "2023-01-04",
+      "pages": 1,
+      "returned_symbols": [
+        "GEHC"
+      ]
+    },
+    "GEN": {
+      "status": "resolved",
+      "provider_symbol": "GEN",
+      "probe_date": "2022-11-08",
+      "pages": 1,
+      "returned_symbols": [
+        "GEN"
+      ]
+    },
+    "GEV": {
+      "status": "resolved",
+      "provider_symbol": "GEV",
+      "probe_date": "2024-04-02",
+      "pages": 1,
+      "returned_symbols": [
+        "GEV"
+      ]
+    },
+    "GILD": {
+      "status": "resolved",
+      "provider_symbol": "GILD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GILD"
+      ]
+    },
+    "GIS": {
+      "status": "resolved",
+      "provider_symbol": "GIS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GIS"
+      ]
+    },
+    "GL": {
+      "status": "resolved",
+      "provider_symbol": "GL",
+      "probe_date": "2019-08-08",
+      "pages": 1,
+      "returned_symbols": [
+        "GL"
+      ]
+    },
+    "GLW": {
+      "status": "resolved",
+      "provider_symbol": "GLW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GLW"
+      ]
+    },
+    "GM": {
+      "status": "resolved",
+      "provider_symbol": "GM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GM"
+      ]
+    },
+    "GNRC": {
+      "status": "resolved",
+      "provider_symbol": "GNRC",
+      "probe_date": "2021-03-22",
+      "pages": 1,
+      "returned_symbols": [
+        "GNRC"
+      ]
+    },
+    "GOOG": {
+      "status": "resolved",
+      "provider_symbol": "GOOG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GOOG"
+      ]
+    },
+    "GOOGL": {
+      "status": "resolved",
+      "provider_symbol": "GOOGL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GOOGL"
+      ]
+    },
+    "GPC": {
+      "status": "resolved",
+      "provider_symbol": "GPC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GPC"
+      ]
+    },
+    "GPN": {
+      "status": "resolved",
+      "provider_symbol": "GPN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GPN"
+      ]
+    },
+    "GPS": {
+      "status": "resolved",
+      "provider_symbol": "GPS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GPS"
+      ]
+    },
+    "GRMN": {
+      "status": "resolved",
+      "provider_symbol": "GRMN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GRMN"
+      ]
+    },
+    "GS": {
+      "status": "resolved",
+      "provider_symbol": "GS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GS"
+      ]
+    },
+    "GWW": {
+      "status": "resolved",
+      "provider_symbol": "GWW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "GWW"
+      ]
+    },
+    "HAL": {
+      "status": "resolved",
+      "provider_symbol": "HAL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HAL"
+      ]
+    },
+    "HAS": {
+      "status": "resolved",
+      "provider_symbol": "HAS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HAS"
+      ]
+    },
+    "HBAN": {
+      "status": "resolved",
+      "provider_symbol": "HBAN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HBAN"
+      ]
+    },
+    "HBI": {
+      "status": "resolved",
+      "provider_symbol": "HBI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HBI"
+      ]
+    },
+    "HCA": {
+      "status": "resolved",
+      "provider_symbol": "HCA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HCA"
+      ]
+    },
+    "HCP": {
+      "status": "resolved",
+      "provider_symbol": "HCP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HCP"
+      ]
+    },
+    "HD": {
+      "status": "resolved",
+      "provider_symbol": "HD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HD"
+      ]
+    },
+    "HES": {
+      "status": "resolved",
+      "provider_symbol": "HES",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HES"
+      ]
+    },
+    "HFC": {
+      "status": "resolved",
+      "provider_symbol": "HFC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HFC"
+      ]
+    },
+    "HIG": {
+      "status": "resolved",
+      "provider_symbol": "HIG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HIG"
+      ]
+    },
+    "HII": {
+      "status": "resolved",
+      "provider_symbol": "HII",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HII"
+      ]
+    },
+    "HLT": {
+      "status": "resolved",
+      "provider_symbol": "HLT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HLT"
+      ]
+    },
+    "HOG": {
+      "status": "resolved",
+      "provider_symbol": "HOG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HOG"
+      ]
+    },
+    "HOLX": {
+      "status": "resolved",
+      "provider_symbol": "HOLX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HOLX"
+      ]
+    },
+    "HON": {
+      "status": "resolved",
+      "provider_symbol": "HON",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HON"
+      ]
+    },
+    "HOOD": {
+      "status": "resolved",
+      "provider_symbol": "HOOD",
+      "probe_date": "2025-09-22",
+      "pages": 1,
+      "returned_symbols": [
+        "HOOD"
+      ]
+    },
+    "HP": {
+      "status": "resolved",
+      "provider_symbol": "HP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HP"
+      ]
+    },
+    "HPE": {
+      "status": "resolved",
+      "provider_symbol": "HPE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HPE"
+      ]
+    },
+    "HPQ": {
+      "status": "resolved",
+      "provider_symbol": "HPQ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HPQ"
+      ]
+    },
+    "HRB": {
+      "status": "resolved",
+      "provider_symbol": "HRB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HRB"
+      ]
+    },
+    "HRL": {
+      "status": "resolved",
+      "provider_symbol": "HRL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HRL"
+      ]
+    },
+    "HSIC": {
+      "status": "resolved",
+      "provider_symbol": "HSIC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HSIC"
+      ]
+    },
+    "HST": {
+      "status": "resolved",
+      "provider_symbol": "HST",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HST"
+      ]
+    },
+    "HSY": {
+      "status": "resolved",
+      "provider_symbol": "HSY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HSY"
+      ]
+    },
+    "HUBB": {
+      "status": "resolved",
+      "provider_symbol": "HUBB",
+      "probe_date": "2023-10-18",
+      "pages": 1,
+      "returned_symbols": [
+        "HUBB"
+      ]
+    },
+    "HUM": {
+      "status": "resolved",
+      "provider_symbol": "HUM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "HUM"
+      ]
+    },
+    "HWM": {
+      "status": "resolved",
+      "provider_symbol": "HWM",
+      "probe_date": "2020-04-06",
+      "pages": 1,
+      "returned_symbols": [
+        "HWM"
+      ]
+    },
+    "IBKR": {
+      "status": "resolved",
+      "provider_symbol": "IBKR",
+      "probe_date": "2025-08-28",
+      "pages": 1,
+      "returned_symbols": [
+        "IBKR"
+      ]
+    },
+    "IBM": {
+      "status": "resolved",
+      "provider_symbol": "IBM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IBM"
+      ]
+    },
+    "ICE": {
+      "status": "resolved",
+      "provider_symbol": "ICE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ICE"
+      ]
+    },
+    "IDXX": {
+      "status": "resolved",
+      "provider_symbol": "IDXX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IDXX"
+      ]
+    },
+    "IEX": {
+      "status": "resolved",
+      "provider_symbol": "IEX",
+      "probe_date": "2019-08-09",
+      "pages": 1,
+      "returned_symbols": [
+        "IEX"
+      ]
+    },
+    "IFF": {
+      "status": "resolved",
+      "provider_symbol": "IFF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IFF"
+      ]
+    },
+    "ILMN": {
+      "status": "resolved",
+      "provider_symbol": "ILMN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ILMN"
+      ]
+    },
+    "INCY": {
+      "status": "resolved",
+      "provider_symbol": "INCY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "INCY"
+      ]
+    },
+    "INFO": {
+      "status": "resolved",
+      "provider_symbol": "INFO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "INFO"
+      ]
+    },
+    "INTC": {
+      "status": "resolved",
+      "provider_symbol": "INTC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "INTC"
+      ]
+    },
+    "INTU": {
+      "status": "resolved",
+      "provider_symbol": "INTU",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "INTU"
+      ]
+    },
+    "INVH": {
+      "status": "resolved",
+      "provider_symbol": "INVH",
+      "probe_date": "2022-09-19",
+      "pages": 1,
+      "returned_symbols": [
+        "INVH"
+      ]
+    },
+    "IP": {
+      "status": "resolved",
+      "provider_symbol": "IP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IP"
+      ]
+    },
+    "IPG": {
+      "status": "resolved",
+      "provider_symbol": "IPG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IPG"
+      ]
+    },
+    "IPGP": {
+      "status": "resolved",
+      "provider_symbol": "IPGP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IPGP"
+      ]
+    },
+    "IQV": {
+      "status": "resolved",
+      "provider_symbol": "IQV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IQV"
+      ]
+    },
+    "IR": {
+      "status": "resolved",
+      "provider_symbol": "IR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IR"
+      ]
+    },
+    "IRM": {
+      "status": "resolved",
+      "provider_symbol": "IRM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IRM"
+      ]
+    },
+    "ISRG": {
+      "status": "resolved",
+      "provider_symbol": "ISRG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ISRG"
+      ]
+    },
+    "IT": {
+      "status": "resolved",
+      "provider_symbol": "IT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IT"
+      ]
+    },
+    "ITW": {
+      "status": "resolved",
+      "provider_symbol": "ITW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ITW"
+      ]
+    },
+    "IVZ": {
+      "status": "resolved",
+      "provider_symbol": "IVZ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "IVZ"
+      ]
+    },
+    "J": {
+      "status": "resolved",
+      "provider_symbol": "J",
+      "probe_date": "2019-12-10",
+      "pages": 1,
+      "returned_symbols": [
+        "J"
+      ]
+    },
+    "JBHT": {
+      "status": "resolved",
+      "provider_symbol": "JBHT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JBHT"
+      ]
+    },
+    "JBL": {
+      "status": "resolved",
+      "provider_symbol": "JBL",
+      "probe_date": "2023-12-18",
+      "pages": 1,
+      "returned_symbols": [
+        "JBL"
+      ]
+    },
+    "JCI": {
+      "status": "resolved",
+      "provider_symbol": "JCI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JCI"
+      ]
+    },
+    "JEC": {
+      "status": "resolved",
+      "provider_symbol": "JEC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JEC"
+      ]
+    },
+    "JEF": {
+      "status": "resolved",
+      "provider_symbol": "JEF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JEF"
+      ]
+    },
+    "JKHY": {
+      "status": "resolved",
+      "provider_symbol": "JKHY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JKHY"
+      ]
+    },
+    "JNJ": {
+      "status": "resolved",
+      "provider_symbol": "JNJ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JNJ"
+      ]
+    },
+    "JNPR": {
+      "status": "resolved",
+      "provider_symbol": "JNPR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JNPR"
+      ]
+    },
+    "JPM": {
+      "status": "resolved",
+      "provider_symbol": "JPM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JPM"
+      ]
+    },
+    "JWN": {
+      "status": "resolved",
+      "provider_symbol": "JWN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "JWN"
+      ]
+    },
+    "K": {
+      "status": "resolved",
+      "provider_symbol": "K",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "K"
+      ]
+    },
+    "KDP": {
+      "status": "resolved",
+      "provider_symbol": "KDP",
+      "probe_date": "2022-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KDP"
+      ]
+    },
+    "KEY": {
+      "status": "resolved",
+      "provider_symbol": "KEY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KEY"
+      ]
+    },
+    "KEYS": {
+      "status": "resolved",
+      "provider_symbol": "KEYS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KEYS"
+      ]
+    },
+    "KHC": {
+      "status": "resolved",
+      "provider_symbol": "KHC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KHC"
+      ]
+    },
+    "KIM": {
+      "status": "resolved",
+      "provider_symbol": "KIM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KIM"
+      ]
+    },
+    "KKR": {
+      "status": "resolved",
+      "provider_symbol": "KKR",
+      "probe_date": "2024-06-24",
+      "pages": 1,
+      "returned_symbols": [
+        "KKR"
+      ]
+    },
+    "KLAC": {
+      "status": "resolved",
+      "provider_symbol": "KLAC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KLAC"
+      ]
+    },
+    "KMB": {
+      "status": "resolved",
+      "provider_symbol": "KMB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KMB"
+      ]
+    },
+    "KMI": {
+      "status": "resolved",
+      "provider_symbol": "KMI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KMI"
+      ]
+    },
+    "KMX": {
+      "status": "resolved",
+      "provider_symbol": "KMX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KMX"
+      ]
+    },
+    "KO": {
+      "status": "resolved",
+      "provider_symbol": "KO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KO"
+      ]
+    },
+    "KR": {
+      "status": "resolved",
+      "provider_symbol": "KR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KR"
+      ]
+    },
+    "KSS": {
+      "status": "resolved",
+      "provider_symbol": "KSS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KSS"
+      ]
+    },
+    "KSU": {
+      "status": "resolved",
+      "provider_symbol": "KSU",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "KSU"
+      ]
+    },
+    "KVUE": {
+      "status": "resolved",
+      "provider_symbol": "KVUE",
+      "probe_date": "2023-08-25",
+      "pages": 1,
+      "returned_symbols": [
+        "KVUE"
+      ]
+    },
+    "L": {
+      "status": "resolved",
+      "provider_symbol": "L",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "L"
+      ]
+    },
+    "LB": {
+      "status": "resolved",
+      "provider_symbol": "LB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LB"
+      ]
+    },
+    "LDOS": {
+      "status": "resolved",
+      "provider_symbol": "LDOS",
+      "probe_date": "2019-08-09",
+      "pages": 1,
+      "returned_symbols": [
+        "LDOS"
+      ]
+    },
+    "LEG": {
+      "status": "resolved",
+      "provider_symbol": "LEG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LEG"
+      ]
+    },
+    "LEN": {
+      "status": "resolved",
+      "provider_symbol": "LEN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LEN"
+      ]
+    },
+    "LH": {
+      "status": "resolved",
+      "provider_symbol": "LH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LH"
+      ]
+    },
+    "LHX": {
+      "status": "resolved",
+      "provider_symbol": "LHX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LHX"
+      ]
+    },
+    "LII": {
+      "status": "resolved",
+      "provider_symbol": "LII",
+      "probe_date": "2024-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "LII"
+      ]
+    },
+    "LIN": {
+      "status": "resolved",
+      "provider_symbol": "LIN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LIN"
+      ]
+    },
+    "LITE": {
+      "status": "resolved",
+      "provider_symbol": "LITE",
+      "probe_date": "2026-03-23",
+      "pages": 1,
+      "returned_symbols": [
+        "LITE"
+      ]
+    },
+    "LKQ": {
+      "status": "resolved",
+      "provider_symbol": "LKQ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LKQ"
+      ]
+    },
+    "LLL": {
+      "status": "resolved",
+      "provider_symbol": "LLL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LLL"
+      ]
+    },
+    "LLY": {
+      "status": "resolved",
+      "provider_symbol": "LLY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LLY"
+      ]
+    },
+    "LMT": {
+      "status": "resolved",
+      "provider_symbol": "LMT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LMT"
+      ]
+    },
+    "LNC": {
+      "status": "resolved",
+      "provider_symbol": "LNC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LNC"
+      ]
+    },
+    "LNT": {
+      "status": "resolved",
+      "provider_symbol": "LNT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LNT"
+      ]
+    },
+    "LOW": {
+      "status": "resolved",
+      "provider_symbol": "LOW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LOW"
+      ]
+    },
+    "LRCX": {
+      "status": "resolved",
+      "provider_symbol": "LRCX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LRCX"
+      ]
+    },
+    "LULU": {
+      "status": "resolved",
+      "provider_symbol": "LULU",
+      "probe_date": "2023-10-18",
+      "pages": 1,
+      "returned_symbols": [
+        "LULU"
+      ]
+    },
+    "LUMN": {
+      "status": "resolved",
+      "provider_symbol": "LUMN",
+      "probe_date": "2020-09-18",
+      "pages": 1,
+      "returned_symbols": [
+        "LUMN"
+      ]
+    },
+    "LUV": {
+      "status": "resolved",
+      "provider_symbol": "LUV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LUV"
+      ]
+    },
+    "LVS": {
+      "status": "resolved",
+      "provider_symbol": "LVS",
+      "probe_date": "2019-10-03",
+      "pages": 1,
+      "returned_symbols": [
+        "LVS"
+      ]
+    },
+    "LW": {
+      "status": "resolved",
+      "provider_symbol": "LW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LW"
+      ]
+    },
+    "LYB": {
+      "status": "resolved",
+      "provider_symbol": "LYB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "LYB"
+      ]
+    },
+    "LYV": {
+      "status": "resolved",
+      "provider_symbol": "LYV",
+      "probe_date": "2019-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "LYV"
+      ]
+    },
+    "M": {
+      "status": "resolved",
+      "provider_symbol": "M",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "M"
+      ]
+    },
+    "MA": {
+      "status": "resolved",
+      "provider_symbol": "MA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MA"
+      ]
+    },
+    "MAA": {
+      "status": "resolved",
+      "provider_symbol": "MAA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MAA"
+      ]
+    },
+    "MAC": {
+      "status": "resolved",
+      "provider_symbol": "MAC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MAC"
+      ]
+    },
+    "MAR": {
+      "status": "resolved",
+      "provider_symbol": "MAR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MAR"
+      ]
+    },
+    "MAS": {
+      "status": "resolved",
+      "provider_symbol": "MAS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MAS"
+      ]
+    },
+    "MCD": {
+      "status": "resolved",
+      "provider_symbol": "MCD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MCD"
+      ]
+    },
+    "MCHP": {
+      "status": "resolved",
+      "provider_symbol": "MCHP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MCHP"
+      ]
+    },
+    "MCK": {
+      "status": "resolved",
+      "provider_symbol": "MCK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MCK"
+      ]
+    },
+    "MCO": {
+      "status": "resolved",
+      "provider_symbol": "MCO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MCO"
+      ]
+    },
+    "MDLZ": {
+      "status": "resolved",
+      "provider_symbol": "MDLZ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MDLZ"
+      ]
+    },
+    "MDT": {
+      "status": "resolved",
+      "provider_symbol": "MDT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MDT"
+      ]
+    },
+    "MET": {
+      "status": "resolved",
+      "provider_symbol": "MET",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MET"
+      ]
+    },
+    "META": {
+      "status": "resolved",
+      "provider_symbol": "META",
+      "probe_date": "2022-06-09",
+      "pages": 1,
+      "returned_symbols": [
+        "META"
+      ]
+    },
+    "MGM": {
+      "status": "resolved",
+      "provider_symbol": "MGM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MGM"
+      ]
+    },
+    "MHK": {
+      "status": "resolved",
+      "provider_symbol": "MHK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MHK"
+      ]
+    },
+    "MKC": {
+      "status": "resolved",
+      "provider_symbol": "MKC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MKC"
+      ]
+    },
+    "MKTX": {
+      "status": "resolved",
+      "provider_symbol": "MKTX",
+      "probe_date": "2019-07-01",
+      "pages": 1,
+      "returned_symbols": [
+        "MKTX"
+      ]
+    },
+    "MLM": {
+      "status": "resolved",
+      "provider_symbol": "MLM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MLM"
+      ]
+    },
+    "MMC": {
+      "status": "resolved",
+      "provider_symbol": "MMC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MMC"
+      ]
+    },
+    "MMM": {
+      "status": "resolved",
+      "provider_symbol": "MMM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MMM"
+      ]
+    },
+    "MNST": {
+      "status": "resolved",
+      "provider_symbol": "MNST",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MNST"
+      ]
+    },
+    "MO": {
+      "status": "resolved",
+      "provider_symbol": "MO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MO"
+      ]
+    },
+    "MOH": {
+      "status": "resolved",
+      "provider_symbol": "MOH",
+      "probe_date": "2022-03-02",
+      "pages": 1,
+      "returned_symbols": [
+        "MOH"
+      ]
+    },
+    "MOS": {
+      "status": "resolved",
+      "provider_symbol": "MOS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MOS"
+      ]
+    },
+    "MPC": {
+      "status": "resolved",
+      "provider_symbol": "MPC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MPC"
+      ]
+    },
+    "MPWR": {
+      "status": "resolved",
+      "provider_symbol": "MPWR",
+      "probe_date": "2021-02-12",
+      "pages": 1,
+      "returned_symbols": [
+        "MPWR"
+      ]
+    },
+    "MRK": {
+      "status": "resolved",
+      "provider_symbol": "MRK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MRK"
+      ]
+    },
+    "MRNA": {
+      "status": "resolved",
+      "provider_symbol": "MRNA",
+      "probe_date": "2021-07-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MRNA"
+      ]
+    },
+    "MRO": {
+      "status": "resolved",
+      "provider_symbol": "MRO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MRO"
+      ]
+    },
+    "MRSH": {
+      "status": "resolved",
+      "provider_symbol": "MRSH",
+      "probe_date": "2026-01-14",
+      "pages": 1,
+      "returned_symbols": [
+        "MRSH"
+      ]
+    },
+    "MS": {
+      "status": "resolved",
+      "provider_symbol": "MS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MS"
+      ]
+    },
+    "MSCI": {
+      "status": "resolved",
+      "provider_symbol": "MSCI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MSCI"
+      ]
+    },
+    "MSFT": {
+      "status": "resolved",
+      "provider_symbol": "MSFT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MSFT"
+      ]
+    },
+    "MSI": {
+      "status": "resolved",
+      "provider_symbol": "MSI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MSI"
+      ]
+    },
+    "MTB": {
+      "status": "resolved",
+      "provider_symbol": "MTB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MTB"
+      ]
+    },
+    "MTCH": {
+      "status": "resolved",
+      "provider_symbol": "MTCH",
+      "probe_date": "2021-09-20",
+      "pages": 1,
+      "returned_symbols": [
+        "MTCH"
+      ]
+    },
+    "MTD": {
+      "status": "resolved",
+      "provider_symbol": "MTD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MTD"
+      ]
+    },
+    "MU": {
+      "status": "resolved",
+      "provider_symbol": "MU",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MU"
+      ]
+    },
+    "MXIM": {
+      "status": "resolved",
+      "provider_symbol": "MXIM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MXIM"
+      ]
+    },
+    "MYL": {
+      "status": "resolved",
+      "provider_symbol": "MYL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "MYL"
+      ]
+    },
+    "NBL": {
+      "status": "resolved",
+      "provider_symbol": "NBL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NBL"
+      ]
+    },
+    "NCLH": {
+      "status": "resolved",
+      "provider_symbol": "NCLH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NCLH"
+      ]
+    },
+    "NDAQ": {
+      "status": "resolved",
+      "provider_symbol": "NDAQ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NDAQ"
+      ]
+    },
+    "NDSN": {
+      "status": "resolved",
+      "provider_symbol": "NDSN",
+      "probe_date": "2022-02-15",
+      "pages": 1,
+      "returned_symbols": [
+        "NDSN"
+      ]
+    },
+    "NEE": {
+      "status": "resolved",
+      "provider_symbol": "NEE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NEE"
+      ]
+    },
+    "NEM": {
+      "status": "resolved",
+      "provider_symbol": "NEM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NEM"
+      ]
+    },
+    "NFLX": {
+      "status": "resolved",
+      "provider_symbol": "NFLX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NFLX"
+      ]
+    },
+    "NI": {
+      "status": "resolved",
+      "provider_symbol": "NI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NI"
+      ]
+    },
+    "NKE": {
+      "status": "resolved",
+      "provider_symbol": "NKE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NKE"
+      ]
+    },
+    "NKTR": {
+      "status": "resolved",
+      "provider_symbol": "NKTR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NKTR"
+      ]
+    },
+    "NLOK": {
+      "status": "resolved",
+      "provider_symbol": "NLOK",
+      "probe_date": "2019-11-05",
+      "pages": 1,
+      "returned_symbols": [
+        "NLOK"
+      ]
+    },
+    "NLSN": {
+      "status": "resolved",
+      "provider_symbol": "NLSN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NLSN"
+      ]
+    },
+    "NOC": {
+      "status": "resolved",
+      "provider_symbol": "NOC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NOC"
+      ]
+    },
+    "NOV": {
+      "status": "resolved",
+      "provider_symbol": "NOV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NOV"
+      ]
+    },
+    "NOW": {
+      "status": "resolved",
+      "provider_symbol": "NOW",
+      "probe_date": "2019-11-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NOW"
+      ]
+    },
+    "NRG": {
+      "status": "resolved",
+      "provider_symbol": "NRG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NRG"
+      ]
+    },
+    "NSC": {
+      "status": "resolved",
+      "provider_symbol": "NSC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NSC"
+      ]
+    },
+    "NTAP": {
+      "status": "resolved",
+      "provider_symbol": "NTAP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NTAP"
+      ]
+    },
+    "NTRS": {
+      "status": "resolved",
+      "provider_symbol": "NTRS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NTRS"
+      ]
+    },
+    "NUE": {
+      "status": "resolved",
+      "provider_symbol": "NUE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NUE"
+      ]
+    },
+    "NVDA": {
+      "status": "resolved",
+      "provider_symbol": "NVDA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NVDA"
+      ]
+    },
+    "NVR": {
+      "status": "resolved",
+      "provider_symbol": "NVR",
+      "probe_date": "2019-09-26",
+      "pages": 1,
+      "returned_symbols": [
+        "NVR"
+      ]
+    },
+    "NWL": {
+      "status": "resolved",
+      "provider_symbol": "NWL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NWL"
+      ]
+    },
+    "NWS": {
+      "status": "resolved",
+      "provider_symbol": "NWS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NWS"
+      ]
+    },
+    "NWSA": {
+      "status": "resolved",
+      "provider_symbol": "NWSA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "NWSA"
+      ]
+    },
+    "NXPI": {
+      "status": "resolved",
+      "provider_symbol": "NXPI",
+      "probe_date": "2021-03-22",
+      "pages": 1,
+      "returned_symbols": [
+        "NXPI"
+      ]
+    },
+    "O": {
+      "status": "resolved",
+      "provider_symbol": "O",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "O"
+      ]
+    },
+    "ODFL": {
+      "status": "resolved",
+      "provider_symbol": "ODFL",
+      "probe_date": "2019-12-09",
+      "pages": 1,
+      "returned_symbols": [
+        "ODFL"
+      ]
+    },
+    "OGN": {
+      "status": "resolved",
+      "provider_symbol": "OGN",
+      "probe_date": "2021-06-04",
+      "pages": 1,
+      "returned_symbols": [
+        "OGN"
+      ]
+    },
+    "OKE": {
+      "status": "resolved",
+      "provider_symbol": "OKE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "OKE"
+      ]
+    },
+    "OMC": {
+      "status": "resolved",
+      "provider_symbol": "OMC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "OMC"
+      ]
+    },
+    "ON": {
+      "status": "resolved",
+      "provider_symbol": "ON",
+      "probe_date": "2022-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ON"
+      ]
+    },
+    "ORCL": {
+      "status": "resolved",
+      "provider_symbol": "ORCL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ORCL"
+      ]
+    },
+    "ORLY": {
+      "status": "resolved",
+      "provider_symbol": "ORLY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ORLY"
+      ]
+    },
+    "OTIS": {
+      "status": "resolved",
+      "provider_symbol": "OTIS",
+      "probe_date": "2020-04-03",
+      "pages": 1,
+      "returned_symbols": [
+        "OTIS"
+      ]
+    },
+    "OXY": {
+      "status": "resolved",
+      "provider_symbol": "OXY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "OXY"
+      ]
+    },
+    "PANW": {
+      "status": "resolved",
+      "provider_symbol": "PANW",
+      "probe_date": "2023-06-20",
+      "pages": 1,
+      "returned_symbols": [
+        "PANW"
+      ]
+    },
+    "PARA": {
+      "status": "resolved",
+      "provider_symbol": "PARA",
+      "probe_date": "2022-02-17",
+      "pages": 1,
+      "returned_symbols": [
+        "PARA"
+      ]
+    },
+    "PAYC": {
+      "status": "resolved",
+      "provider_symbol": "PAYC",
+      "probe_date": "2020-01-28",
+      "pages": 1,
+      "returned_symbols": [
+        "PAYC"
+      ]
+    },
+    "PAYX": {
+      "status": "resolved",
+      "provider_symbol": "PAYX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PAYX"
+      ]
+    },
+    "PBCT": {
+      "status": "resolved",
+      "provider_symbol": "PBCT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PBCT"
+      ]
+    },
+    "PCAR": {
+      "status": "resolved",
+      "provider_symbol": "PCAR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PCAR"
+      ]
+    },
+    "PCG": {
+      "status": "resolved",
+      "provider_symbol": "PCG",
+      "probe_date": "2022-10-03",
+      "pages": 1,
+      "returned_symbols": [
+        "PCG"
+      ]
+    },
+    "PEAK": {
+      "status": "resolved",
+      "provider_symbol": "PEAK",
+      "probe_date": "2019-11-05",
+      "pages": 1,
+      "returned_symbols": [
+        "PEAK"
+      ]
+    },
+    "PEG": {
+      "status": "resolved",
+      "provider_symbol": "PEG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PEG"
+      ]
+    },
+    "PENN": {
+      "status": "resolved",
+      "provider_symbol": "PENN",
+      "probe_date": "2021-03-22",
+      "pages": 1,
+      "returned_symbols": [
+        "PENN"
+      ]
+    },
+    "PEP": {
+      "status": "resolved",
+      "provider_symbol": "PEP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PEP"
+      ]
+    },
+    "PFE": {
+      "status": "resolved",
+      "provider_symbol": "PFE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PFE"
+      ]
+    },
+    "PFG": {
+      "status": "resolved",
+      "provider_symbol": "PFG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PFG"
+      ]
+    },
+    "PG": {
+      "status": "resolved",
+      "provider_symbol": "PG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PG"
+      ]
+    },
+    "PGR": {
+      "status": "resolved",
+      "provider_symbol": "PGR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PGR"
+      ]
+    },
+    "PH": {
+      "status": "resolved",
+      "provider_symbol": "PH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PH"
+      ]
+    },
+    "PHM": {
+      "status": "resolved",
+      "provider_symbol": "PHM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PHM"
+      ]
+    },
+    "PKG": {
+      "status": "resolved",
+      "provider_symbol": "PKG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PKG"
+      ]
+    },
+    "PKI": {
+      "status": "resolved",
+      "provider_symbol": "PKI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PKI"
+      ]
+    },
+    "PLD": {
+      "status": "resolved",
+      "provider_symbol": "PLD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PLD"
+      ]
+    },
+    "PLTR": {
+      "status": "resolved",
+      "provider_symbol": "PLTR",
+      "probe_date": "2024-09-23",
+      "pages": 1,
+      "returned_symbols": [
+        "PLTR"
+      ]
+    },
+    "PM": {
+      "status": "resolved",
+      "provider_symbol": "PM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PM"
+      ]
+    },
+    "PNC": {
+      "status": "resolved",
+      "provider_symbol": "PNC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PNC"
+      ]
+    },
+    "PNR": {
+      "status": "resolved",
+      "provider_symbol": "PNR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PNR"
+      ]
+    },
+    "PNW": {
+      "status": "resolved",
+      "provider_symbol": "PNW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PNW"
+      ]
+    },
+    "PODD": {
+      "status": "resolved",
+      "provider_symbol": "PODD",
+      "probe_date": "2023-03-15",
+      "pages": 1,
+      "returned_symbols": [
+        "PODD"
+      ]
+    },
+    "POOL": {
+      "status": "resolved",
+      "provider_symbol": "POOL",
+      "probe_date": "2020-10-07",
+      "pages": 1,
+      "returned_symbols": [
+        "POOL"
+      ]
+    },
+    "PPG": {
+      "status": "resolved",
+      "provider_symbol": "PPG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PPG"
+      ]
+    },
+    "PPL": {
+      "status": "resolved",
+      "provider_symbol": "PPL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PPL"
+      ]
+    },
+    "PRGO": {
+      "status": "resolved",
+      "provider_symbol": "PRGO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PRGO"
+      ]
+    },
+    "PRU": {
+      "status": "resolved",
+      "provider_symbol": "PRU",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PRU"
+      ]
+    },
+    "PSA": {
+      "status": "resolved",
+      "provider_symbol": "PSA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PSA"
+      ]
+    },
+    "PSKY": {
+      "status": "resolved",
+      "provider_symbol": "PSKY",
+      "probe_date": "2025-08-08",
+      "pages": 1,
+      "returned_symbols": [
+        "PSKY"
+      ]
+    },
+    "PSX": {
+      "status": "resolved",
+      "provider_symbol": "PSX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PSX"
+      ]
+    },
+    "PTC": {
+      "status": "resolved",
+      "provider_symbol": "PTC",
+      "probe_date": "2021-04-20",
+      "pages": 1,
+      "returned_symbols": [
+        "PTC"
+      ]
+    },
+    "PVH": {
+      "status": "resolved",
+      "provider_symbol": "PVH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PVH"
+      ]
+    },
+    "PWR": {
+      "status": "resolved",
+      "provider_symbol": "PWR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PWR"
+      ]
+    },
+    "PXD": {
+      "status": "resolved",
+      "provider_symbol": "PXD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PXD"
+      ]
+    },
+    "PYPL": {
+      "status": "resolved",
+      "provider_symbol": "PYPL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "PYPL"
+      ]
+    },
+    "Q": {
+      "status": "resolved",
+      "provider_symbol": "Q",
+      "probe_date": "2025-11-03",
+      "pages": 1,
+      "returned_symbols": [
+        "Q"
+      ]
+    },
+    "QCOM": {
+      "status": "resolved",
+      "provider_symbol": "QCOM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "QCOM"
+      ]
+    },
+    "QRVO": {
+      "status": "resolved",
+      "provider_symbol": "QRVO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "QRVO"
+      ]
+    },
+    "RCL": {
+      "status": "resolved",
+      "provider_symbol": "RCL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RCL"
+      ]
+    },
+    "RE": {
+      "status": "resolved",
+      "provider_symbol": "RE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RE"
+      ]
+    },
+    "REG": {
+      "status": "resolved",
+      "provider_symbol": "REG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "REG"
+      ]
+    },
+    "REGN": {
+      "status": "resolved",
+      "provider_symbol": "REGN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "REGN"
+      ]
+    },
+    "RF": {
+      "status": "resolved",
+      "provider_symbol": "RF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RF"
+      ]
+    },
+    "RHI": {
+      "status": "resolved",
+      "provider_symbol": "RHI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RHI"
+      ]
+    },
+    "RHT": {
+      "status": "resolved",
+      "provider_symbol": "RHT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RHT"
+      ]
+    },
+    "RJF": {
+      "status": "resolved",
+      "provider_symbol": "RJF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RJF"
+      ]
+    },
+    "RL": {
+      "status": "resolved",
+      "provider_symbol": "RL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RL"
+      ]
+    },
+    "RMD": {
+      "status": "resolved",
+      "provider_symbol": "RMD",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RMD"
+      ]
+    },
+    "ROK": {
+      "status": "resolved",
+      "provider_symbol": "ROK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ROK"
+      ]
+    },
+    "ROL": {
+      "status": "resolved",
+      "provider_symbol": "ROL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ROL"
+      ]
+    },
+    "ROP": {
+      "status": "resolved",
+      "provider_symbol": "ROP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ROP"
+      ]
+    },
+    "ROST": {
+      "status": "resolved",
+      "provider_symbol": "ROST",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ROST"
+      ]
+    },
+    "RSG": {
+      "status": "resolved",
+      "provider_symbol": "RSG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RSG"
+      ]
+    },
+    "RTN": {
+      "status": "resolved",
+      "provider_symbol": "RTN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "RTN"
+      ]
+    },
+    "RTX": {
+      "status": "resolved",
+      "provider_symbol": "RTX",
+      "probe_date": "2020-04-03",
+      "pages": 1,
+      "returned_symbols": [
+        "RTX"
+      ]
+    },
+    "RVTY": {
+      "status": "resolved",
+      "provider_symbol": "RVTY",
+      "probe_date": "2023-05-16",
+      "pages": 1,
+      "returned_symbols": [
+        "RVTY"
+      ]
+    },
+    "SATS": {
+      "status": "resolved",
+      "provider_symbol": "SATS",
+      "probe_date": "2026-03-23",
+      "pages": 1,
+      "returned_symbols": [
+        "SATS"
+      ]
+    },
+    "SBAC": {
+      "status": "resolved",
+      "provider_symbol": "SBAC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SBAC"
+      ]
+    },
+    "SBNY": {
+      "status": "resolved",
+      "provider_symbol": "SBNY",
+      "probe_date": "2021-12-20",
+      "pages": 1,
+      "returned_symbols": [
+        "SBNY"
+      ]
+    },
+    "SBUX": {
+      "status": "resolved",
+      "provider_symbol": "SBUX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SBUX"
+      ]
+    },
+    "SCHW": {
+      "status": "resolved",
+      "provider_symbol": "SCHW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SCHW"
+      ]
+    },
+    "SEDG": {
+      "status": "resolved",
+      "provider_symbol": "SEDG",
+      "probe_date": "2021-12-20",
+      "pages": 1,
+      "returned_symbols": [
+        "SEDG"
+      ]
+    },
+    "SEE": {
+      "status": "resolved",
+      "provider_symbol": "SEE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SEE"
+      ]
+    },
+    "SHW": {
+      "status": "resolved",
+      "provider_symbol": "SHW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SHW"
+      ]
+    },
+    "SIVB": {
+      "status": "resolved",
+      "provider_symbol": "SIVB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SIVB"
+      ]
+    },
+    "SJM": {
+      "status": "resolved",
+      "provider_symbol": "SJM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SJM"
+      ]
+    },
+    "SLB": {
+      "status": "resolved",
+      "provider_symbol": "SLB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SLB"
+      ]
+    },
+    "SLG": {
+      "status": "resolved",
+      "provider_symbol": "SLG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SLG"
+      ]
+    },
+    "SMCI": {
+      "status": "resolved",
+      "provider_symbol": "SMCI",
+      "probe_date": "2024-03-18",
+      "pages": 1,
+      "returned_symbols": [
+        "SMCI"
+      ]
+    },
+    "SNA": {
+      "status": "resolved",
+      "provider_symbol": "SNA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SNA"
+      ]
+    },
+    "SNDK": {
+      "status": "resolved",
+      "provider_symbol": "SNDK",
+      "probe_date": "2025-11-28",
+      "pages": 1,
+      "returned_symbols": [
+        "SNDK"
+      ]
+    },
+    "SNPS": {
+      "status": "resolved",
+      "provider_symbol": "SNPS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SNPS"
+      ]
+    },
+    "SO": {
+      "status": "resolved",
+      "provider_symbol": "SO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SO"
+      ]
+    },
+    "SOLS": {
+      "status": "resolved",
+      "provider_symbol": "SOLS",
+      "probe_date": "2025-10-30",
+      "pages": 1,
+      "returned_symbols": [
+        "SOLS"
+      ]
+    },
+    "SOLV": {
+      "status": "resolved",
+      "provider_symbol": "SOLV",
+      "probe_date": "2024-04-01",
+      "pages": 1,
+      "returned_symbols": [
+        "SOLV"
+      ]
+    },
+    "SPG": {
+      "status": "resolved",
+      "provider_symbol": "SPG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SPG"
+      ]
+    },
+    "SPGI": {
+      "status": "resolved",
+      "provider_symbol": "SPGI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SPGI"
+      ]
+    },
+    "SRE": {
+      "status": "resolved",
+      "provider_symbol": "SRE",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SRE"
+      ]
+    },
+    "STE": {
+      "status": "resolved",
+      "provider_symbol": "STE",
+      "probe_date": "2019-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "STE"
+      ]
+    },
+    "STI": {
+      "status": "unresolved",
+      "provider_symbol": "STI",
+      "probe_date": null,
+      "pages": 0,
+      "returned_symbols": [],
+      "errors": [
+        "2019-06-21:empty",
+        "2019-09-16:empty",
+        "2019-12-06:empty"
+      ]
+    },
+    "STLD": {
+      "status": "resolved",
+      "provider_symbol": "STLD",
+      "probe_date": "2022-12-22",
+      "pages": 1,
+      "returned_symbols": [
+        "STLD"
+      ]
+    },
+    "STT": {
+      "status": "resolved",
+      "provider_symbol": "STT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "STT"
+      ]
+    },
+    "STX": {
+      "status": "resolved",
+      "provider_symbol": "STX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "STX"
+      ]
+    },
+    "STZ": {
+      "status": "resolved",
+      "provider_symbol": "STZ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "STZ"
+      ]
+    },
+    "SW": {
+      "status": "resolved",
+      "provider_symbol": "SW",
+      "probe_date": "2024-07-08",
+      "pages": 1,
+      "returned_symbols": [
+        "SW"
+      ]
+    },
+    "SWK": {
+      "status": "resolved",
+      "provider_symbol": "SWK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SWK"
+      ]
+    },
+    "SWKS": {
+      "status": "resolved",
+      "provider_symbol": "SWKS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SWKS"
+      ]
+    },
+    "SYF": {
+      "status": "resolved",
+      "provider_symbol": "SYF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SYF"
+      ]
+    },
+    "SYK": {
+      "status": "resolved",
+      "provider_symbol": "SYK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SYK"
+      ]
+    },
+    "SYMC": {
+      "status": "resolved",
+      "provider_symbol": "SYMC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SYMC"
+      ]
+    },
+    "SYY": {
+      "status": "resolved",
+      "provider_symbol": "SYY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "SYY"
+      ]
+    },
+    "T": {
+      "status": "resolved",
+      "provider_symbol": "T",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "T"
+      ]
+    },
+    "TAP": {
+      "status": "resolved",
+      "provider_symbol": "TAP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TAP"
+      ]
+    },
+    "TDG": {
+      "status": "resolved",
+      "provider_symbol": "TDG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TDG"
+      ]
+    },
+    "TDY": {
+      "status": "resolved",
+      "provider_symbol": "TDY",
+      "probe_date": "2020-06-22",
+      "pages": 1,
+      "returned_symbols": [
+        "TDY"
+      ]
+    },
+    "TECH": {
+      "status": "resolved",
+      "provider_symbol": "TECH",
+      "probe_date": "2021-08-30",
+      "pages": 1,
+      "returned_symbols": [
+        "TECH"
+      ]
+    },
+    "TEL": {
+      "status": "resolved",
+      "provider_symbol": "TEL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TEL"
+      ]
+    },
+    "TER": {
+      "status": "resolved",
+      "provider_symbol": "TER",
+      "probe_date": "2020-09-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TER"
+      ]
+    },
+    "TFC": {
+      "status": "resolved",
+      "provider_symbol": "TFC",
+      "probe_date": "2019-12-09",
+      "pages": 1,
+      "returned_symbols": [
+        "TFC"
+      ]
+    },
+    "TFX": {
+      "status": "resolved",
+      "provider_symbol": "TFX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TFX"
+      ]
+    },
+    "TGT": {
+      "status": "resolved",
+      "provider_symbol": "TGT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TGT"
+      ]
+    },
+    "TIF": {
+      "status": "resolved",
+      "provider_symbol": "TIF",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TIF"
+      ]
+    },
+    "TJX": {
+      "status": "resolved",
+      "provider_symbol": "TJX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TJX"
+      ]
+    },
+    "TKO": {
+      "status": "resolved",
+      "provider_symbol": "TKO",
+      "probe_date": "2025-03-24",
+      "pages": 1,
+      "returned_symbols": [
+        "TKO"
+      ]
+    },
+    "TMK": {
+      "status": "resolved",
+      "provider_symbol": "TMK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TMK"
+      ]
+    },
+    "TMO": {
+      "status": "resolved",
+      "provider_symbol": "TMO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TMO"
+      ]
+    },
+    "TMUS": {
+      "status": "resolved",
+      "provider_symbol": "TMUS",
+      "probe_date": "2019-07-15",
+      "pages": 1,
+      "returned_symbols": [
+        "TMUS"
+      ]
+    },
+    "TPL": {
+      "status": "resolved",
+      "provider_symbol": "TPL",
+      "probe_date": "2024-11-26",
+      "pages": 1,
+      "returned_symbols": [
+        "TPL"
+      ]
+    },
+    "TPR": {
+      "status": "resolved",
+      "provider_symbol": "TPR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TPR"
+      ]
+    },
+    "TRGP": {
+      "status": "resolved",
+      "provider_symbol": "TRGP",
+      "probe_date": "2022-10-12",
+      "pages": 1,
+      "returned_symbols": [
+        "TRGP"
+      ]
+    },
+    "TRIP": {
+      "status": "resolved",
+      "provider_symbol": "TRIP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TRIP"
+      ]
+    },
+    "TRMB": {
+      "status": "resolved",
+      "provider_symbol": "TRMB",
+      "probe_date": "2021-01-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TRMB"
+      ]
+    },
+    "TROW": {
+      "status": "resolved",
+      "provider_symbol": "TROW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TROW"
+      ]
+    },
+    "TRV": {
+      "status": "resolved",
+      "provider_symbol": "TRV",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TRV"
+      ]
+    },
+    "TSCO": {
+      "status": "resolved",
+      "provider_symbol": "TSCO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TSCO"
+      ]
+    },
+    "TSLA": {
+      "status": "resolved",
+      "provider_symbol": "TSLA",
+      "probe_date": "2020-12-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TSLA"
+      ]
+    },
+    "TSN": {
+      "status": "resolved",
+      "provider_symbol": "TSN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TSN"
+      ]
+    },
+    "TSS": {
+      "status": "resolved",
+      "provider_symbol": "TSS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TSS"
+      ]
+    },
+    "TT": {
+      "status": "resolved",
+      "provider_symbol": "TT",
+      "probe_date": "2020-03-03",
+      "pages": 1,
+      "returned_symbols": [
+        "TT"
+      ]
+    },
+    "TTD": {
+      "status": "resolved",
+      "provider_symbol": "TTD",
+      "probe_date": "2025-07-18",
+      "pages": 1,
+      "returned_symbols": [
+        "TTD"
+      ]
+    },
+    "TTWO": {
+      "status": "resolved",
+      "provider_symbol": "TTWO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TTWO"
+      ]
+    },
+    "TWTR": {
+      "status": "resolved",
+      "provider_symbol": "TWTR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TWTR"
+      ]
+    },
+    "TXN": {
+      "status": "resolved",
+      "provider_symbol": "TXN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TXN"
+      ]
+    },
+    "TXT": {
+      "status": "resolved",
+      "provider_symbol": "TXT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "TXT"
+      ]
+    },
+    "TYL": {
+      "status": "resolved",
+      "provider_symbol": "TYL",
+      "probe_date": "2020-06-22",
+      "pages": 1,
+      "returned_symbols": [
+        "TYL"
+      ]
+    },
+    "UA": {
+      "status": "resolved",
+      "provider_symbol": "UA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UA"
+      ]
+    },
+    "UAA": {
+      "status": "resolved",
+      "provider_symbol": "UAA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UAA"
+      ]
+    },
+    "UAL": {
+      "status": "resolved",
+      "provider_symbol": "UAL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UAL"
+      ]
+    },
+    "UBER": {
+      "status": "resolved",
+      "provider_symbol": "UBER",
+      "probe_date": "2023-12-18",
+      "pages": 1,
+      "returned_symbols": [
+        "UBER"
+      ]
+    },
+    "UDR": {
+      "status": "resolved",
+      "provider_symbol": "UDR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UDR"
+      ]
+    },
+    "UHS": {
+      "status": "resolved",
+      "provider_symbol": "UHS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UHS"
+      ]
+    },
+    "ULTA": {
+      "status": "resolved",
+      "provider_symbol": "ULTA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ULTA"
+      ]
+    },
+    "UNH": {
+      "status": "resolved",
+      "provider_symbol": "UNH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UNH"
+      ]
+    },
+    "UNM": {
+      "status": "resolved",
+      "provider_symbol": "UNM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UNM"
+      ]
+    },
+    "UNP": {
+      "status": "resolved",
+      "provider_symbol": "UNP",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UNP"
+      ]
+    },
+    "UPS": {
+      "status": "resolved",
+      "provider_symbol": "UPS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UPS"
+      ]
+    },
+    "URI": {
+      "status": "resolved",
+      "provider_symbol": "URI",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "URI"
+      ]
+    },
+    "USB": {
+      "status": "resolved",
+      "provider_symbol": "USB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "USB"
+      ]
+    },
+    "UTX": {
+      "status": "resolved",
+      "provider_symbol": "UTX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "UTX"
+      ]
+    },
+    "V": {
+      "status": "resolved",
+      "provider_symbol": "V",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "V"
+      ]
+    },
+    "VAR": {
+      "status": "resolved",
+      "provider_symbol": "VAR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VAR"
+      ]
+    },
+    "VFC": {
+      "status": "resolved",
+      "provider_symbol": "VFC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VFC"
+      ]
+    },
+    "VIAB": {
+      "status": "resolved",
+      "provider_symbol": "VIAB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VIAB"
+      ]
+    },
+    "VIAC": {
+      "status": "resolved",
+      "provider_symbol": "VIAC",
+      "probe_date": "2019-12-05",
+      "pages": 1,
+      "returned_symbols": [
+        "VIAC"
+      ]
+    },
+    "VICI": {
+      "status": "resolved",
+      "provider_symbol": "VICI",
+      "probe_date": "2022-06-08",
+      "pages": 1,
+      "returned_symbols": [
+        "VICI"
+      ]
+    },
+    "VLO": {
+      "status": "resolved",
+      "provider_symbol": "VLO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VLO"
+      ]
+    },
+    "VLTO": {
+      "status": "resolved",
+      "provider_symbol": "VLTO",
+      "probe_date": "2023-10-02",
+      "pages": 1,
+      "returned_symbols": [
+        "VLTO"
+      ]
+    },
+    "VMC": {
+      "status": "resolved",
+      "provider_symbol": "VMC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VMC"
+      ]
+    },
+    "VNO": {
+      "status": "resolved",
+      "provider_symbol": "VNO",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VNO"
+      ]
+    },
+    "VNT": {
+      "status": "resolved",
+      "provider_symbol": "VNT",
+      "probe_date": "2020-10-12",
+      "pages": 1,
+      "returned_symbols": [
+        "VNT"
+      ]
+    },
+    "VRSK": {
+      "status": "resolved",
+      "provider_symbol": "VRSK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VRSK"
+      ]
+    },
+    "VRSN": {
+      "status": "resolved",
+      "provider_symbol": "VRSN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VRSN"
+      ]
+    },
+    "VRT": {
+      "status": "resolved",
+      "provider_symbol": "VRT",
+      "probe_date": "2026-03-23",
+      "pages": 1,
+      "returned_symbols": [
+        "VRT"
+      ]
+    },
+    "VRTX": {
+      "status": "resolved",
+      "provider_symbol": "VRTX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VRTX"
+      ]
+    },
+    "VST": {
+      "status": "resolved",
+      "provider_symbol": "VST",
+      "probe_date": "2024-05-08",
+      "pages": 1,
+      "returned_symbols": [
+        "VST"
+      ]
+    },
+    "VTR": {
+      "status": "resolved",
+      "provider_symbol": "VTR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VTR"
+      ]
+    },
+    "VTRS": {
+      "status": "resolved",
+      "provider_symbol": "VTRS",
+      "probe_date": "2020-11-17",
+      "pages": 1,
+      "returned_symbols": [
+        "VTRS"
+      ]
+    },
+    "VZ": {
+      "status": "resolved",
+      "provider_symbol": "VZ",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "VZ"
+      ]
+    },
+    "WAB": {
+      "status": "resolved",
+      "provider_symbol": "WAB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WAB"
+      ]
+    },
+    "WAT": {
+      "status": "resolved",
+      "provider_symbol": "WAT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WAT"
+      ]
+    },
+    "WBA": {
+      "status": "resolved",
+      "provider_symbol": "WBA",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WBA"
+      ]
+    },
+    "WBD": {
+      "status": "resolved",
+      "provider_symbol": "WBD",
+      "probe_date": "2022-04-11",
+      "pages": 1,
+      "returned_symbols": [
+        "WBD"
+      ]
+    },
+    "WCG": {
+      "status": "resolved",
+      "provider_symbol": "WCG",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WCG"
+      ]
+    },
+    "WDAY": {
+      "status": "resolved",
+      "provider_symbol": "WDAY",
+      "probe_date": "2024-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "WDAY"
+      ]
+    },
+    "WDC": {
+      "status": "resolved",
+      "provider_symbol": "WDC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WDC"
+      ]
+    },
+    "WEC": {
+      "status": "resolved",
+      "provider_symbol": "WEC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WEC"
+      ]
+    },
+    "WELL": {
+      "status": "resolved",
+      "provider_symbol": "WELL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WELL"
+      ]
+    },
+    "WFC": {
+      "status": "resolved",
+      "provider_symbol": "WFC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WFC"
+      ]
+    },
+    "WHR": {
+      "status": "resolved",
+      "provider_symbol": "WHR",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WHR"
+      ]
+    },
+    "WLTW": {
+      "status": "resolved",
+      "provider_symbol": "WLTW",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WLTW"
+      ]
+    },
+    "WM": {
+      "status": "resolved",
+      "provider_symbol": "WM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WM"
+      ]
+    },
+    "WMB": {
+      "status": "resolved",
+      "provider_symbol": "WMB",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WMB"
+      ]
+    },
+    "WMT": {
+      "status": "resolved",
+      "provider_symbol": "WMT",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WMT"
+      ]
+    },
+    "WRB": {
+      "status": "resolved",
+      "provider_symbol": "WRB",
+      "probe_date": "2019-12-05",
+      "pages": 1,
+      "returned_symbols": [
+        "WRB"
+      ]
+    },
+    "WRK": {
+      "status": "resolved",
+      "provider_symbol": "WRK",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WRK"
+      ]
+    },
+    "WSM": {
+      "status": "resolved",
+      "provider_symbol": "WSM",
+      "probe_date": "2025-03-24",
+      "pages": 1,
+      "returned_symbols": [
+        "WSM"
+      ]
+    },
+    "WST": {
+      "status": "resolved",
+      "provider_symbol": "WST",
+      "probe_date": "2020-05-22",
+      "pages": 1,
+      "returned_symbols": [
+        "WST"
+      ]
+    },
+    "WTW": {
+      "status": "resolved",
+      "provider_symbol": "WTW",
+      "probe_date": "2022-01-10",
+      "pages": 1,
+      "returned_symbols": [
+        "WTW"
+      ]
+    },
+    "WU": {
+      "status": "resolved",
+      "provider_symbol": "WU",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WU"
+      ]
+    },
+    "WY": {
+      "status": "resolved",
+      "provider_symbol": "WY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WY"
+      ]
+    },
+    "WYNN": {
+      "status": "resolved",
+      "provider_symbol": "WYNN",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "WYNN"
+      ]
+    },
+    "XEC": {
+      "status": "resolved",
+      "provider_symbol": "XEC",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XEC"
+      ]
+    },
+    "XEL": {
+      "status": "resolved",
+      "provider_symbol": "XEL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XEL"
+      ]
+    },
+    "XLNX": {
+      "status": "resolved",
+      "provider_symbol": "XLNX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XLNX"
+      ]
+    },
+    "XOM": {
+      "status": "resolved",
+      "provider_symbol": "XOM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XOM"
+      ]
+    },
+    "XRAY": {
+      "status": "resolved",
+      "provider_symbol": "XRAY",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XRAY"
+      ]
+    },
+    "XRX": {
+      "status": "resolved",
+      "provider_symbol": "XRX",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XRX"
+      ]
+    },
+    "XYL": {
+      "status": "resolved",
+      "provider_symbol": "XYL",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "XYL"
+      ]
+    },
+    "XYZ": {
+      "status": "resolved",
+      "provider_symbol": "XYZ",
+      "probe_date": "2025-07-23",
+      "pages": 1,
+      "returned_symbols": [
+        "XYZ"
+      ]
+    },
+    "YUM": {
+      "status": "resolved",
+      "provider_symbol": "YUM",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "YUM"
+      ]
+    },
+    "ZBH": {
+      "status": "resolved",
+      "provider_symbol": "ZBH",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ZBH"
+      ]
+    },
+    "ZBRA": {
+      "status": "resolved",
+      "provider_symbol": "ZBRA",
+      "probe_date": "2019-12-23",
+      "pages": 1,
+      "returned_symbols": [
+        "ZBRA"
+      ]
+    },
+    "ZION": {
+      "status": "resolved",
+      "provider_symbol": "ZION",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ZION"
+      ]
+    },
+    "ZTS": {
+      "status": "resolved",
+      "provider_symbol": "ZTS",
+      "probe_date": "2019-06-21",
+      "pages": 1,
+      "returned_symbols": [
+        "ZTS"
+      ]
+    }
+  },
+  "credentials_recorded": false
+}

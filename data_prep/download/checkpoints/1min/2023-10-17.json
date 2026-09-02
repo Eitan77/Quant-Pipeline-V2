@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2023-10-17",
+  "task_signature": "3f48f54284784ae2f32d941d41458f6540b3abadc96f17937ebd504abf78de0d",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "ATVI"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

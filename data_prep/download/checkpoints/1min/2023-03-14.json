@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2023-03-14",
+  "task_signature": "281dac595935c1e6dc804a4d05235d52b0da8ae6630ee2359f49651a6f92dc97",
+  "requested_symbols": 2,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "SBNY",
+    "SIVB"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

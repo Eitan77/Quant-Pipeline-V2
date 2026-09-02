@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "primary_source": "reference\\membership_source\\fja_updated.csv",
+  "secondary_source": "reference\\membership_source\\hanshof_historical.csv",
+  "source_sha256": {
+    "fja_updated.csv": "39a9202c9ef69a74c0ff07e2113ad41fb6da7c8c5b6cd9541f0185fb4391e717",
+    "hanshof_historical.csv": "02f37a12c11f82218fce422ecf7d95fae1074bd96e664c262a5ea42c120d5fe9"
+  },
+  "requested_start": "2019-01-02",
+  "requested_cutoff": "2026-04-30",
+  "holdout_start": "2026-05-01",
+  "calendar_sessions": 1724,
+  "membership_rows": 868639,
+  "membership_dates": 1724,
+  "unique_source_symbols": 654,
+  "members_per_session_min": 503,
+  "members_per_session_max": 507,
+  "members_per_session_mean": 503.8509280742459,
+  "primary_snapshot_rows_loaded": 2710,
+  "primary_snapshot_min": "1996-01-02",
+  "primary_snapshot_max": "2026-04-09",
+  "primary_first_excluded_after_cutoff": "2026-05-07",
+  "secondary_snapshot_rows_loaded": 3480,
+  "secondary_snapshot_min": "1996-01-02",
+  "secondary_snapshot_max": "2025-08-23",
+  "secondary_first_excluded_after_cutoff": null,
+  "secondary_comparison": {
+    "overlap_start": "2019-06-21",
+    "overlap_end": "2025-08-22",
+    "overlap_sessions": 1552,
+    "mismatch_sessions": 1024,
+    "mismatch_fraction": 0.6597938144329897,
+    "primary_is_retained": true,
+    "decision": "retain_primary_fja_reconstruction_and_preserve_secondary_disagreement",
+    "first_mismatch_date": "2019-06-21",
+    "last_mismatch_date": "2025-08-11",
+    "examples": [
+      {
+        "date": "2019-06-21",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-06-24",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-06-25",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-06-26",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-06-27",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-06-28",
+        "primary_count": "505",
+        "secondary_count": "496",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR,LLL",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-07-01",
+        "primary_count": "505",
+        "secondary_count": "497",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-07-02",
+        "primary_count": "505",
+        "secondary_count": "497",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-07-03",
+        "primary_count": "505",
+        "secondary_count": "497",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR",
+        "secondary_only": ""
+      },
+      {
+        "date": "2019-07-05",
+        "primary_count": "505",
+        "secondary_count": "497",
+        "primary_only": "AGN,ARNC,BHGE,DOW,FOX,FOXA,HCP,IR",
+        "secondary_only": ""
+      }
+    ]
+  },
+  "holdout_rows_loaded": 0,
+  "artifacts": {
+    "membership": "data_prep\\membership\\sp500_pit_membership_daily.parquet",
+    "intervals": "data_prep\\membership\\sp500_pit_membership_intervals.csv",
+    "secondary_mismatches": "data_prep\\membership\\secondary_mismatch_sessions.csv"
+  }
+}

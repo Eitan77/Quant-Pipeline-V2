@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2025-07-03",
+  "task_signature": "8ee8f5cb9e7424d11b60433fff48fe25006fd9e76afc95123a9be3323b765695",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "JNPR"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

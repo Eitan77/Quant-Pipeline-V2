@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2024-11-25",
+  "task_signature": "42576386901c9337a8832a051a1671bb07c26490f9e1c100ca19b57f45a5735d",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "MRO"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

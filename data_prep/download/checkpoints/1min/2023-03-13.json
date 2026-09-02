@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2023-03-13",
+  "task_signature": "1486c63c31608be3ea69de3e589d4ae6d3669c524858f6bf195b771e74ee1658",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "SIVB"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

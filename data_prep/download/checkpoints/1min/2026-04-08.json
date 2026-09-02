@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2026-04-08",
+  "task_signature": "5f872754ccd459b78412055f23b4d775df8fbc4b0ff8140d96853fa722f11042",
+  "requested_symbols": 1,
+  "returned_symbols": [],
+  "requested_without_return": [
+    "HOLX"
+  ],
+  "pages": 1,
+  "rows": 0,
+  "output": null,
+  "holdout_rows_loaded": 0
+}

@@ -1,0 +1,70 @@
+experiment_id: phase1b_dual_discovery_through_20260430
+discovery_end: "2026-04-30"
+sealed_holdout_start: "2026-05-01"
+allow_holdout_access: false
+dual_factor_enabled: true
+phase1b_mode: curated_only
+systematic_phase1b:
+  enabled: true
+  parent_selection:
+    max_parent_features: 120
+    max_per_feature_family: 12
+    max_per_redundancy_group: 2
+    primary_global_fdr_max: 0.20
+    minimum_absolute_effect_bps: 0.50
+    minimum_valid_observations: 100000
+    minimum_sessions: 750
+    minimum_symbols: 75
+    minimum_decision_timestamps: 250
+    include_top_per_family_when_threshold_not_met: 3
+    include_top_per_target_family_when_threshold_not_met: 5
+  pair_generation:
+    max_parent_pairs: 5000
+    forbid_identical_parent: true
+    forbid_same_redundancy_group: true
+    maximum_absolute_parent_spearman: 0.90
+    maximum_pairs_per_family_pair: 500
+    minimum_joint_observations: 250000
+    minimum_joint_sessions: 750
+    minimum_joint_symbols: 75
+    minimum_joint_decision_timestamps: 250
+  operators:
+    aligned_rank_mean: true
+    directional_intersection: true
+    gated_anchor: true
+    persistence_intersection: false
+  binary_state_coverage:
+    minimum_on_observations: 10000
+    minimum_off_observations: 10000
+    minimum_on_sessions: 250
+    minimum_off_sessions: 250
+    minimum_on_symbols: 50
+    minimum_off_symbols: 50
+    minimum_activation_rate: 0.005
+    maximum_activation_rate: 0.20
+  limits:
+    max_generated_features: 15000
+    feature_chunk_size: 32
+  screening:
+    primary_targets_only: true
+    exploratory_family_fdr_max: 0.05
+    exact_candidate_limit: 250
+  promotion:
+    minimum_absolute_effect_bps: 1.0
+    minimum_effect_ratio_vs_best_parent: 1.25
+    minimum_effect_increment_bps_vs_best_parent: 0.25
+    minimum_positive_historical_fold_fraction: 0.60
+    minimum_recent_to_full_effect_ratio: 0.50
+    maximum_recent_to_full_effect_ratio: 2.50
+    minimum_expected_direction_symbol_fraction: 0.55
+    maximum_symbol_effect_hhi: 0.02
+    maximum_top5_symbol_effect_share: 0.25
+    minimum_remove_top5_effect_retention: 0.50
+dual_factor_manifest_path: configs/phase1b_dual_factors.yaml
+dual_factor_feature_chunk_size: 32
+dual_factor_max_generated_features: 500
+dual_factor_emit_parent_conditions: true
+binary_semantics_validation: error
+scan_schema_version: phase1ab_v3
+dual_cache_schema_version: phase1b_v3
+binary_primary_screen_inference: two_way_date_symbol

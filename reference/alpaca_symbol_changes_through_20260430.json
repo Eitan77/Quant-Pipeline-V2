@@ -1,0 +1,7 @@
+{
+  "rows": 3395,
+  "ticker_to_ticker_rows": 3357,
+  "start": "2019-01-01",
+  "end": "2026-04-30",
+  "output": "reference\\alpaca_symbol_changes_through_20260430.parquet"
+}

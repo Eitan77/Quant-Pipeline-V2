@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "timeframe": "1Min",
+  "date": "2025-08-07",
+  "task_signature": "3fb42e8b2cb09cd5ba07d854dd4c573494ec80cfc8173753eb9bfcdc1763354d",
+  "requested_symbols": 1,
+  "returned_symbols": [
+    "PARA"
+  ],
+  "requested_without_return": [],
+  "pages": 1,
+  "rows": 170,
+  "output": "D:\\AlgoResearch\\data\\raw\\alpaca\\market\\stocks\\bars_1m\\feed=sip\\year=2025\\month=08\\date=2025-08-07\\part-cam0508-1min-2025-08-07.parquet",
+  "holdout_rows_loaded": 0
+}

@@ -1,0 +1,100 @@
+run_name: alpha_discovery_v2_smoke_10x20_20260902_cleared
+project_root: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2
+output_root: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/runs
+
+source:
+  duckdb_path: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/data/catalog.duckdb
+  bars_1m_raw_table: bars_1m_raw
+  bars_1m_research_table: bars_1m_research
+  alpaca_feed_required: sip
+  alpaca_execution_adjustment_required: raw
+  research_price_basis: split_consistent
+  security_master_table: security_master
+  membership_table: sp500_pit_membership_daily
+  corporate_actions_path: C:/Users/decla/Desktop/AlgoResearch/Quant Pipeline V2/data/reference/corporate_actions.parquet
+  benchmark_symbols: [SPY, QQQ]
+
+research_periods:
+  discovery_start: '2026-04-02'
+  discovery_end: '2026-04-30'
+  replication_start: '2026-05-01'
+  replication_end: '2026-08-31'
+  final_holdout_start: '2026-09-01'
+  allow_replication_access: false
+  allow_final_holdout_access: false
+
+compute:
+  prefer_cuda: true
+  gpu_device: cuda:0
+  dynamic_memory_fraction: 0.90
+  cpu_fallback: true
+  deterministic: true
+  feature_block_size: auto
+  target_block_size: auto
+  cpu_workers: 16
+  host_memory_fraction: 0.90
+  duckdb_memory_limit: 28GB
+  duckdb_temp_directory: D:/AlgoResearch/Quant Pipeline V2/temp
+
+decision_grids:
+  intraday_5m: true
+  daily_close: true
+  preclose_1555: false
+  intraday_1m: false
+
+feature_windows:
+  intraday: [5m, 15m]
+  daily: [1d, 2d]
+
+targets:
+  intraday: [5m, EOD]
+  interday: [1d]
+  overnight: false
+  bases: [raw, benchmark_adjusted]
+  intraday_entry_delay_minutes: 1
+  daily_entry_delay_minutes: 1
+
+universe:
+  minimum_price: 3.0
+  minimum_prior_20d_median_dollar_volume: 10000000
+  require_stable_security_id: true
+  require_point_in_time_membership: true
+  smoke_symbol_limit: 8
+  smoke_feature_limit: 120
+
+duals:
+  enabled: true
+  parent_preselection: false
+  coarse_bins: 3
+  extreme_quantiles: [0.10, 0.20]
+  exhaustive_5x5_all_pairs: false
+  exact_bins: 10
+
+stability:
+  chronological_folds: 2
+  require_neighbor_analysis: true
+  require_plateau_detection: true
+  minimum_symbol_breadth: 0.50
+
+warmup:
+  auto_derive_transitive_history: true
+  safety_margin_sessions: 0
+  fail_if_full_coverage_warmup_missing: false
+  snapshot_start: '2026-03-02'
+  available_prior_sessions: 23
+
+context_expansion: {enabled: false, only_from_stable_base_structures: true}
+formula_factory: {enabled: false, max_expression_depth: 3, max_binary_operators: 2}
+ml: {enabled: false, purged_chronological_folds: true, symbol_embeddings: false}
+edge_autopsy:
+  enabled: false
+  mandatory_before_replication: false
+  threshold_tails: [0.20]
+  cost_bps_per_side: [0, 5]
+  entry_delay_minutes: [1]
+  placebo_runs: 10
+governance:
+  enforce_state_machine: true
+  require_candidate_freeze_manifest: true
+  require_portfolio_freeze_manifest: true
+  require_exhaustiveness_pass_for_freeze: true

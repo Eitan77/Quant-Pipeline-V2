@@ -1,0 +1,45 @@
+schema_version: phase1b_manifest_v1
+defaults:
+  emit_parent_conditions: true
+  expected_direction: 0
+definitions:
+  - id: session_position_x_relative_volume_high
+    feature_a: session_range_position
+    feature_b: tod_relative_volume_20
+    operator: intersection
+    condition_a: {transform: cross_sectional_rank, comparator: ge, threshold: 0.90}
+    condition_b: {transform: cross_sectional_rank, comparator: ge, threshold: 0.75}
+    output_dtype: binary
+    expected_direction: 1
+  - id: session_position_x_vwap_slope_confluence
+    feature_a: session_range_position
+    feature_b: vwap_slope
+    operator: aligned_rank_mean
+    transform_a: {kind: cross_sectional_rank, orientation: 1}
+    transform_b: {kind: cross_sectional_rank, orientation: 1}
+    output_dtype: continuous
+    expected_direction: 1
+  - id: session_position_given_high_volume
+    feature_a: session_range_position
+    feature_b: tod_relative_volume_20
+    operator: gated_anchor
+    transform_a: {kind: raw, orientation: 1}
+    condition_b: {transform: cross_sectional_rank, comparator: ge, threshold: 0.75}
+    output_dtype: continuous
+    expected_direction: 1
+  - id: opening_breakdown_x_high_volume
+    feature_a: opening_breakdown_5m
+    feature_b: tod_relative_volume_20
+    operator: intersection
+    condition_a: {transform: raw, comparator: eq, threshold: 1}
+    condition_b: {transform: cross_sectional_rank, comparator: ge, threshold: 0.75}
+    output_dtype: binary
+    expected_direction: -1
+  - id: range_position_persistence_2bars
+    feature_a: session_range_position
+    feature_b: session_range_position
+    operator: persistence_intersection
+    condition_a: {transform: cross_sectional_rank, comparator: ge, threshold: 0.90, lag_bars: 1}
+    condition_b: {transform: cross_sectional_rank, comparator: ge, threshold: 0.90, lag_bars: 0}
+    output_dtype: binary
+    expected_direction: 1
