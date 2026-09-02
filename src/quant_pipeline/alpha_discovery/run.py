@@ -423,7 +423,9 @@ class AlphaDiscoveryRun:
                         ids_path, values_path = future.result()
                         ids = np.load(ids_path, mmap_mode="r", allow_pickle=False)
                         part_values = np.load(values_path, mmap_mode="r", allow_pickle=False)
-                        dense_ids = np.asarray(ids, dtype=np.int64)
+                        # Own the ID buffer before unlinking the Windows-backed
+                        # memmap; np.asarray can retain the file mapping.
+                        dense_ids = np.array(ids, dtype=np.int64, copy=True)
                         if len(dense_ids) and (dense_ids.min() < 0 or dense_ids.max() >= observation_count):
                             raise ValueError(f"Worker returned out-of-range observation IDs for {grid}")
                         values[dense_ids, :] = part_values
